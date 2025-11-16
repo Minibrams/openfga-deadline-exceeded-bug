@@ -1,13 +1,11 @@
 import asyncio
 import json
-import random
 import sync_fga_database
 from fga_client import FGAClient
 
 async def main():
-    client = FGAClient()
     await sync_fga_database.main()
-    await client.load_store_and_model()
+    await FGAClient().load_store_and_model()
 
     with open("tuples.json", "r") as f:
         tuples = json.load(f)
@@ -15,6 +13,7 @@ async def main():
     users = [tuple['user'] for tuple in tuples if tuple["relation"] == "myself"]
 
     async def make_queries(user):
+        client = FGAClient()
         await client.check_tuple(
             user=user,
             relation="myself",
