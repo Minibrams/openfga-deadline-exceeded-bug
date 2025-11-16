@@ -15,7 +15,6 @@ async def main():
         tuples = json.load(f)
 
     users = [tuple['user'] for tuple in tuples if tuple["relation"] == "myself"]
-    users = [random.choice(users) for _ in range(n_parallel_requests)]
 
     async with asyncio.TaskGroup() as tg:
         for user in users:

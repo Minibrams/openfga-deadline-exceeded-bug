@@ -132,7 +132,7 @@ class FGAClient:
         return await self._paginate(
             "GET",
             "/stores",
-            params=params | {"consistency": "MINIMIZE_LATENCY"},
+            params=params | {"consistency": "HIGHER_CONSISTENCY"},
             response_key="stores",
         )
 
@@ -254,7 +254,7 @@ class FGAClient:
     ) -> list[dict]:
         store_id = self._get_store_id()
 
-        body: dict[str, Any] = {"consistency": "MINIMIZE_LATENCY"}
+        body: dict[str, Any] = {"consistency": "HIGHER_CONSISTENCY"}
         if user or relation or object:
             body["tuple_key"] = {}
             if user:
@@ -317,7 +317,7 @@ class FGAClient:
                     "object": object,
                 },
                 "authorization_model_id": model_id,
-                "consistency": "MINIMIZE_LATENCY",
+                "consistency": "HIGHER_CONSISTENCY",
             },
         )
         _raise_for_status(response)
@@ -361,7 +361,7 @@ class FGAClient:
                 "relation": relation,
                 "type": object_type,
                 "authorization_model_id": model_id,
-                "consistency": "MINIMIZE_LATENCY",
+                "consistency": "HIGHER_CONSISTENCY",
             },
             response_key="objects",
         )
@@ -395,7 +395,7 @@ class FGAClient:
                 },
                 "relation": relation,
                 "authorization_model_id": model_id,
-                "consistency": "MINIMIZE_LATENCY",
+                "consistency": "HIGHER_CONSISTENCY",
             },
             response_key="users",
         )
