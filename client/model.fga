@@ -1,0 +1,41 @@
+model
+  schema 1.1
+
+type user
+  relations
+    define myself: [user]
+    define platform: [system]
+    define organization: [organization]
+    define can_read: myself or member from organization or super_admin from platform
+    define can_edit: myself or super_admin from platform
+    define can_delete: myself or super_admin from platform
+
+
+type system
+  relations
+    define super_admin: [user]
+
+type organization
+  relations
+    define platform: [system]
+    define owner: [user] or super_admin from platform
+    define employee: [user]
+    define consultant: [user]
+    define reporter: [user]
+    define owned_by: [sensor]
+
+    define member: owner or employee or consultant or reporter
+
+    define can_read: member or can_read from owned_by or super_admin from platform
+    define can_edit: owner or super_admin from platform
+    define can_delete: super_admin from platform
+    define can_manage_sensors: owner or employee or consultant or super_admin from platform
+    define can_manage_members: owner or super_admin from platform
+
+type sensor
+  relations
+    define platform: [system]
+    define owner: [organization]
+    define can_edit: [user] or can_manage_sensors from owner or super_admin from platform
+    define can_read: [user] or can_edit or can_report or member from owner
+    define can_report: [user] or reporter from owner

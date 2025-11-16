@@ -1,0 +1,71 @@
+
+services:
+
+  # API
+  client:
+    image: client
+    container_name: client
+
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+
+    command: ["uv", "run", "main.py"]
+
+    env_file:
+      - .env
+
+    depends_on:
+      - openfga
+
+  # OpenFGA (API)
+  openfga:
+    depends_on:
+      openfga-migrate:
+        condition: service_completed_successfully
+    image: openfga/openfga:v1.8.6
+    container_name: openfga
+    restart: unless-stopped
+    expose:
+      - 8080
+    command: ["run"]
+    environment:
+      - OPENFGA_DATASTORE_ENGINE=postgres
+      - OPENFGA_DATASTORE_URI=${OPENFGA_DATASTORE_URI}
+      - OPENFGA_LOG_FORMAT=json
+
+  # OpenFGA (Database)
+  openfga-db:
+    image: postgres:18
+    container_name: openfga-db
+    expose:
+      - 5432
+    environment:
+      - POSTGRES_USER=${OPENFGA_DATASTORE_USER}
+      - POSTGRES_PASSWORD=${OPENFGA_DATASTORE_PASS}
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U ${OPENFGA_DATASTORE_USER}" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+    volumes:
+      - openfga_db_data:/var/lib/postgresql
+
+  # OpenFGA (Migrate database)
+  openfga-migrate:
+    depends_on:
+      openfga-db:
+        condition: service_healthy
+    image: openfga/openfga:v1.8.6
+    container_name: openfga-migrate
+    command: ["migrate"]
+    environment:
+      - OPENFGA_DATASTORE_ENGINE=postgres
+      - OPENFGA_DATASTORE_URI=${OPENFGA_DATASTORE_URI}
+      - OPENFGA_LOG_FORMAT=json
+
+
+volumes:
+  openfga_db_data:
+

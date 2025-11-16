@@ -1,0 +1,4062 @@
+[
+  {
+    "user": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c",
+    "relation": "myself",
+    "object": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c"
+  },
+  {
+    "user": "user:6f5735cb-0388-4e42-a424-a4f58949d784",
+    "relation": "myself",
+    "object": "user:6f5735cb-0388-4e42-a424-a4f58949d784"
+  },
+  {
+    "user": "user:314827cb-657c-4788-bced-cf886a262148",
+    "relation": "myself",
+    "object": "user:314827cb-657c-4788-bced-cf886a262148"
+  },
+  {
+    "user": "user:e5e4e4d1-73f4-4893-9dda-9487894321da",
+    "relation": "myself",
+    "object": "user:e5e4e4d1-73f4-4893-9dda-9487894321da"
+  },
+  {
+    "user": "user:288d2b98-e650-46be-99ce-6087129f03e8",
+    "relation": "myself",
+    "object": "user:288d2b98-e650-46be-99ce-6087129f03e8"
+  },
+  {
+    "user": "user:4a348e44-552f-4b1e-bc1c-748bf277646d",
+    "relation": "myself",
+    "object": "user:4a348e44-552f-4b1e-bc1c-748bf277646d"
+  },
+  {
+    "user": "user:3fbf1766-33f7-45aa-81cd-acc91d67af82",
+    "relation": "myself",
+    "object": "user:3fbf1766-33f7-45aa-81cd-acc91d67af82"
+  },
+  {
+    "user": "user:b66a8748-2009-498a-a546-1c180d390a92",
+    "relation": "myself",
+    "object": "user:b66a8748-2009-498a-a546-1c180d390a92"
+  },
+  {
+    "user": "user:df8b74fb-dc24-4b38-86f1-715dd34e0779",
+    "relation": "myself",
+    "object": "user:df8b74fb-dc24-4b38-86f1-715dd34e0779"
+  },
+  {
+    "user": "user:ee7c41f3-97d9-4175-aed0-00180e33320f",
+    "relation": "myself",
+    "object": "user:ee7c41f3-97d9-4175-aed0-00180e33320f"
+  },
+  {
+    "user": "user:0cc3d328-291b-424d-9b02-4b388783de84",
+    "relation": "myself",
+    "object": "user:0cc3d328-291b-424d-9b02-4b388783de84"
+  },
+  {
+    "user": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0",
+    "relation": "myself",
+    "object": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0"
+  },
+  {
+    "user": "user:b85de75d-4e53-4c43-bcb6-8963bc5a3bb9",
+    "relation": "myself",
+    "object": "user:b85de75d-4e53-4c43-bcb6-8963bc5a3bb9"
+  },
+  {
+    "user": "user:162c3e18-b207-4352-b275-5e318c1a149a",
+    "relation": "myself",
+    "object": "user:162c3e18-b207-4352-b275-5e318c1a149a"
+  },
+  {
+    "user": "user:9d038ba6-98be-4666-b0c4-fea11653fd38",
+    "relation": "myself",
+    "object": "user:9d038ba6-98be-4666-b0c4-fea11653fd38"
+  },
+  {
+    "user": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20",
+    "relation": "myself",
+    "object": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20"
+  },
+  {
+    "user": "user:eb85429a-e5e5-418d-8212-61395e017bc7",
+    "relation": "myself",
+    "object": "user:eb85429a-e5e5-418d-8212-61395e017bc7"
+  },
+  {
+    "user": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d",
+    "relation": "myself",
+    "object": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "myself",
+    "object": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f"
+  },
+  {
+    "user": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1",
+    "relation": "myself",
+    "object": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1"
+  },
+  {
+    "user": "user:e6069e3f-3a87-4937-b154-4658edf39fc7",
+    "relation": "myself",
+    "object": "user:e6069e3f-3a87-4937-b154-4658edf39fc7"
+  },
+  {
+    "user": "user:d8cf66ea-fb5f-42c1-a7f4-66c88a9fe4e1",
+    "relation": "myself",
+    "object": "user:d8cf66ea-fb5f-42c1-a7f4-66c88a9fe4e1"
+  },
+  {
+    "user": "user:68e56b6c-5e59-4e4a-8916-2ba12a60035e",
+    "relation": "myself",
+    "object": "user:68e56b6c-5e59-4e4a-8916-2ba12a60035e"
+  },
+  {
+    "user": "user:5c3da5ff-50b7-4e8d-ae8b-9dcb465cde97",
+    "relation": "myself",
+    "object": "user:5c3da5ff-50b7-4e8d-ae8b-9dcb465cde97"
+  },
+  {
+    "user": "user:6a846d0a-a365-4f27-a205-366ede940998",
+    "relation": "myself",
+    "object": "user:6a846d0a-a365-4f27-a205-366ede940998"
+  },
+  {
+    "user": "user:195b6665-865d-44c7-b3d0-d269913c11fa",
+    "relation": "myself",
+    "object": "user:195b6665-865d-44c7-b3d0-d269913c11fa"
+  },
+  {
+    "user": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6",
+    "relation": "myself",
+    "object": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6"
+  },
+  {
+    "user": "user:7d51f1e1-d3f7-4e1d-85ae-8115d7fad2da",
+    "relation": "myself",
+    "object": "user:7d51f1e1-d3f7-4e1d-85ae-8115d7fad2da"
+  },
+  {
+    "user": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82",
+    "relation": "myself",
+    "object": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82"
+  },
+  {
+    "user": "user:eba182c9-470a-4976-829e-c9f929312488",
+    "relation": "myself",
+    "object": "user:eba182c9-470a-4976-829e-c9f929312488"
+  },
+  {
+    "user": "user:f33c51a8-0e13-4a62-a3bb-36146b30896e",
+    "relation": "myself",
+    "object": "user:f33c51a8-0e13-4a62-a3bb-36146b30896e"
+  },
+  {
+    "user": "user:ab5950c5-60a5-4a64-bdf3-aa4c49b168ae",
+    "relation": "myself",
+    "object": "user:ab5950c5-60a5-4a64-bdf3-aa4c49b168ae"
+  },
+  {
+    "user": "user:596994bb-3e60-4784-8bcc-51a46db3c362",
+    "relation": "myself",
+    "object": "user:596994bb-3e60-4784-8bcc-51a46db3c362"
+  },
+  {
+    "user": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73",
+    "relation": "myself",
+    "object": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73"
+  },
+  {
+    "user": "user:1ddb0ab3-7a11-4ece-a8d6-b762541e2143",
+    "relation": "myself",
+    "object": "user:1ddb0ab3-7a11-4ece-a8d6-b762541e2143"
+  },
+  {
+    "user": "user:c5a99188-c77e-45c7-94a7-736b3574e4e6",
+    "relation": "myself",
+    "object": "user:c5a99188-c77e-45c7-94a7-736b3574e4e6"
+  },
+  {
+    "user": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16",
+    "relation": "myself",
+    "object": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16"
+  },
+  {
+    "user": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201",
+    "relation": "myself",
+    "object": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201"
+  },
+  {
+    "user": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0",
+    "relation": "myself",
+    "object": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "myself",
+    "object": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0"
+  },
+  {
+    "user": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5",
+    "relation": "myself",
+    "object": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "myself",
+    "object": "user:1816f8ee-d02b-4132-99c7-264e7047e77f"
+  },
+  {
+    "user": "user:76c6f931-4318-4c23-ba43-4ba7248678ac",
+    "relation": "myself",
+    "object": "user:76c6f931-4318-4c23-ba43-4ba7248678ac"
+  },
+  {
+    "user": "user:d29024af-7605-47a7-bf56-246bd6257cf7",
+    "relation": "myself",
+    "object": "user:d29024af-7605-47a7-bf56-246bd6257cf7"
+  },
+  {
+    "user": "user:f56f8340-c26e-4f45-8c9c-66f35f86296c",
+    "relation": "myself",
+    "object": "user:f56f8340-c26e-4f45-8c9c-66f35f86296c"
+  },
+  {
+    "user": "user:cf12ba55-0c4a-47ea-a23f-eceb95ee6d0e",
+    "relation": "myself",
+    "object": "user:cf12ba55-0c4a-47ea-a23f-eceb95ee6d0e"
+  },
+  {
+    "user": "user:7cdaf15b-4e76-4ce9-97b7-5c864e043460",
+    "relation": "myself",
+    "object": "user:7cdaf15b-4e76-4ce9-97b7-5c864e043460"
+  },
+  {
+    "user": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e",
+    "relation": "myself",
+    "object": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e"
+  },
+  {
+    "user": "user:7727dbfc-3d32-4269-ab59-b01261badd57",
+    "relation": "myself",
+    "object": "user:7727dbfc-3d32-4269-ab59-b01261badd57"
+  },
+  {
+    "user": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8",
+    "relation": "myself",
+    "object": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8"
+  },
+  {
+    "user": "user:87bb7d3e-ca96-4192-8f73-9a42cf77d786",
+    "relation": "myself",
+    "object": "user:87bb7d3e-ca96-4192-8f73-9a42cf77d786"
+  },
+  {
+    "user": "user:f017d5b1-4cc9-4bf3-83f5-ebc5df503896",
+    "relation": "myself",
+    "object": "user:f017d5b1-4cc9-4bf3-83f5-ebc5df503896"
+  },
+  {
+    "user": "user:752232e7-5f22-4434-b38f-65bc40c60872",
+    "relation": "myself",
+    "object": "user:752232e7-5f22-4434-b38f-65bc40c60872"
+  },
+  {
+    "user": "user:2bea844b-b69d-4d8b-82b7-7ed38a330823",
+    "relation": "myself",
+    "object": "user:2bea844b-b69d-4d8b-82b7-7ed38a330823"
+  },
+  {
+    "user": "user:a59592c2-e9f5-4b24-9c03-eeadd9e21c74",
+    "relation": "myself",
+    "object": "user:a59592c2-e9f5-4b24-9c03-eeadd9e21c74"
+  },
+  {
+    "user": "user:f4de6c93-9f60-48d2-b564-6c41f7dd2653",
+    "relation": "myself",
+    "object": "user:f4de6c93-9f60-48d2-b564-6c41f7dd2653"
+  },
+  {
+    "user": "user:f2d2fabf-9950-4b2a-9cfc-6b0a4f5fc67f",
+    "relation": "myself",
+    "object": "user:f2d2fabf-9950-4b2a-9cfc-6b0a4f5fc67f"
+  },
+  {
+    "user": "user:11364c55-54e1-4724-94e4-7a276e43f68f",
+    "relation": "myself",
+    "object": "user:11364c55-54e1-4724-94e4-7a276e43f68f"
+  },
+  {
+    "user": "user:d97e2d22-c37f-4cd1-8a80-0c6297d473e3",
+    "relation": "myself",
+    "object": "user:d97e2d22-c37f-4cd1-8a80-0c6297d473e3"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "myself",
+    "object": "user:6de0e199-f313-4af1-a617-eb44ef765c6a"
+  },
+  {
+    "user": "user:5e730186-705e-4ad0-beb6-1bf7c1cc5660",
+    "relation": "myself",
+    "object": "user:5e730186-705e-4ad0-beb6-1bf7c1cc5660"
+  },
+  {
+    "user": "user:143015a9-3b1e-4c32-96cb-eeadec489a32",
+    "relation": "myself",
+    "object": "user:143015a9-3b1e-4c32-96cb-eeadec489a32"
+  },
+  {
+    "user": "user:f459c3c6-456c-48f5-8ce0-073741373d55",
+    "relation": "myself",
+    "object": "user:f459c3c6-456c-48f5-8ce0-073741373d55"
+  },
+  {
+    "user": "user:91c18e87-a95d-43d1-b25e-5c2626243cec",
+    "relation": "myself",
+    "object": "user:91c18e87-a95d-43d1-b25e-5c2626243cec"
+  },
+  {
+    "user": "user:72ec3d92-1256-4016-82b1-b2b2e8da6d57",
+    "relation": "myself",
+    "object": "user:72ec3d92-1256-4016-82b1-b2b2e8da6d57"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "myself",
+    "object": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "myself",
+    "object": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31"
+  },
+  {
+    "user": "user:9b59353b-295a-4eb7-9c8a-f4805162cc3c",
+    "relation": "myself",
+    "object": "user:9b59353b-295a-4eb7-9c8a-f4805162cc3c"
+  },
+  {
+    "user": "user:c4010905-a660-4632-86d1-1dab80fae419",
+    "relation": "myself",
+    "object": "user:c4010905-a660-4632-86d1-1dab80fae419"
+  },
+  {
+    "user": "user:d514af50-c525-468b-bf7b-53824b544720",
+    "relation": "myself",
+    "object": "user:d514af50-c525-468b-bf7b-53824b544720"
+  },
+  {
+    "user": "user:4937c32d-fe3d-4e07-9d40-fbcb41adcf6c",
+    "relation": "myself",
+    "object": "user:4937c32d-fe3d-4e07-9d40-fbcb41adcf6c"
+  },
+  {
+    "user": "user:74eec133-23b1-464f-aa70-7fcfb63b0654",
+    "relation": "myself",
+    "object": "user:74eec133-23b1-464f-aa70-7fcfb63b0654"
+  },
+  {
+    "user": "user:dd061000-f973-4a82-afec-7470d6c8527f",
+    "relation": "myself",
+    "object": "user:dd061000-f973-4a82-afec-7470d6c8527f"
+  },
+  {
+    "user": "user:09cf445a-f96a-4eaf-bea2-683359ed3bdc",
+    "relation": "myself",
+    "object": "user:09cf445a-f96a-4eaf-bea2-683359ed3bdc"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "myself",
+    "object": "user:aced3cee-890e-4174-a584-d362e892385f"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "myself",
+    "object": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf"
+  },
+  {
+    "user": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c",
+    "relation": "myself",
+    "object": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c"
+  },
+  {
+    "user": "user:9b19578b-2c90-466d-a555-f8035d0b9ace",
+    "relation": "myself",
+    "object": "user:9b19578b-2c90-466d-a555-f8035d0b9ace"
+  },
+  {
+    "user": "user:35625113-df7b-40bf-8847-4bba5bdacbec",
+    "relation": "myself",
+    "object": "user:35625113-df7b-40bf-8847-4bba5bdacbec"
+  },
+  {
+    "user": "user:6ee83cbf-5be3-4d71-8374-a01152b5b4f2",
+    "relation": "myself",
+    "object": "user:6ee83cbf-5be3-4d71-8374-a01152b5b4f2"
+  },
+  {
+    "user": "user:1a76d2b9-2e03-4f2c-aad9-21bb2ed57e82",
+    "relation": "myself",
+    "object": "user:1a76d2b9-2e03-4f2c-aad9-21bb2ed57e82"
+  },
+  {
+    "user": "user:19111b0f-82dd-45fe-8d9b-6d60cb3cb377",
+    "relation": "myself",
+    "object": "user:19111b0f-82dd-45fe-8d9b-6d60cb3cb377"
+  },
+  {
+    "user": "user:e58bea16-c41c-4b3e-80a8-9138316df9d0",
+    "relation": "myself",
+    "object": "user:e58bea16-c41c-4b3e-80a8-9138316df9d0"
+  },
+  {
+    "user": "user:8ebc9b9d-7510-4d2b-bde7-00b0671b1891",
+    "relation": "myself",
+    "object": "user:8ebc9b9d-7510-4d2b-bde7-00b0671b1891"
+  },
+  {
+    "user": "user:c18a3649-f696-4e0e-aa86-f6ce9ec43a45",
+    "relation": "myself",
+    "object": "user:c18a3649-f696-4e0e-aa86-f6ce9ec43a45"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "myself",
+    "object": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02"
+  },
+  {
+    "user": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8",
+    "relation": "myself",
+    "object": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:6f5735cb-0388-4e42-a424-a4f58949d784"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:314827cb-657c-4788-bced-cf886a262148"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:e5e4e4d1-73f4-4893-9dda-9487894321da"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:288d2b98-e650-46be-99ce-6087129f03e8"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:4a348e44-552f-4b1e-bc1c-748bf277646d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:3fbf1766-33f7-45aa-81cd-acc91d67af82"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:b66a8748-2009-498a-a546-1c180d390a92"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:df8b74fb-dc24-4b38-86f1-715dd34e0779"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:ee7c41f3-97d9-4175-aed0-00180e33320f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:0cc3d328-291b-424d-9b02-4b388783de84"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:b85de75d-4e53-4c43-bcb6-8963bc5a3bb9"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:162c3e18-b207-4352-b275-5e318c1a149a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:9d038ba6-98be-4666-b0c4-fea11653fd38"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:eb85429a-e5e5-418d-8212-61395e017bc7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:e6069e3f-3a87-4937-b154-4658edf39fc7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d8cf66ea-fb5f-42c1-a7f4-66c88a9fe4e1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:68e56b6c-5e59-4e4a-8916-2ba12a60035e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:5c3da5ff-50b7-4e8d-ae8b-9dcb465cde97"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:6a846d0a-a365-4f27-a205-366ede940998"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:195b6665-865d-44c7-b3d0-d269913c11fa"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:7d51f1e1-d3f7-4e1d-85ae-8115d7fad2da"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:eba182c9-470a-4976-829e-c9f929312488"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:f33c51a8-0e13-4a62-a3bb-36146b30896e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:ab5950c5-60a5-4a64-bdf3-aa4c49b168ae"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:596994bb-3e60-4784-8bcc-51a46db3c362"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:1ddb0ab3-7a11-4ece-a8d6-b762541e2143"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:c5a99188-c77e-45c7-94a7-736b3574e4e6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:1816f8ee-d02b-4132-99c7-264e7047e77f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:76c6f931-4318-4c23-ba43-4ba7248678ac"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d29024af-7605-47a7-bf56-246bd6257cf7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:f56f8340-c26e-4f45-8c9c-66f35f86296c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:cf12ba55-0c4a-47ea-a23f-eceb95ee6d0e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:7cdaf15b-4e76-4ce9-97b7-5c864e043460"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:7727dbfc-3d32-4269-ab59-b01261badd57"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:87bb7d3e-ca96-4192-8f73-9a42cf77d786"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:f017d5b1-4cc9-4bf3-83f5-ebc5df503896"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:752232e7-5f22-4434-b38f-65bc40c60872"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:2bea844b-b69d-4d8b-82b7-7ed38a330823"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:a59592c2-e9f5-4b24-9c03-eeadd9e21c74"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:f4de6c93-9f60-48d2-b564-6c41f7dd2653"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:f2d2fabf-9950-4b2a-9cfc-6b0a4f5fc67f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:11364c55-54e1-4724-94e4-7a276e43f68f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d97e2d22-c37f-4cd1-8a80-0c6297d473e3"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:6de0e199-f313-4af1-a617-eb44ef765c6a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:5e730186-705e-4ad0-beb6-1bf7c1cc5660"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:143015a9-3b1e-4c32-96cb-eeadec489a32"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:f459c3c6-456c-48f5-8ce0-073741373d55"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:91c18e87-a95d-43d1-b25e-5c2626243cec"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:72ec3d92-1256-4016-82b1-b2b2e8da6d57"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:9b59353b-295a-4eb7-9c8a-f4805162cc3c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:c4010905-a660-4632-86d1-1dab80fae419"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d514af50-c525-468b-bf7b-53824b544720"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:4937c32d-fe3d-4e07-9d40-fbcb41adcf6c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:74eec133-23b1-464f-aa70-7fcfb63b0654"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:dd061000-f973-4a82-afec-7470d6c8527f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:09cf445a-f96a-4eaf-bea2-683359ed3bdc"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:aced3cee-890e-4174-a584-d362e892385f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:9b19578b-2c90-466d-a555-f8035d0b9ace"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:35625113-df7b-40bf-8847-4bba5bdacbec"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:6ee83cbf-5be3-4d71-8374-a01152b5b4f2"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:1a76d2b9-2e03-4f2c-aad9-21bb2ed57e82"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:19111b0f-82dd-45fe-8d9b-6d60cb3cb377"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:e58bea16-c41c-4b3e-80a8-9138316df9d0"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:8ebc9b9d-7510-4d2b-bde7-00b0671b1891"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:c18a3649-f696-4e0e-aa86-f6ce9ec43a45"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8"
+  },
+  {
+    "user": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c",
+    "relation": "owner",
+    "object": "organization:76bac768-a213-4c42-93d8-cea6d12933ce"
+  },
+  {
+    "user": "user:e5e4e4d1-73f4-4893-9dda-9487894321da",
+    "relation": "owner",
+    "object": "organization:d86e7559-72fd-4aba-9b00-30e9ab155899"
+  },
+  {
+    "user": "user:288d2b98-e650-46be-99ce-6087129f03e8",
+    "relation": "owner",
+    "object": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f"
+  },
+  {
+    "user": "user:ee7c41f3-97d9-4175-aed0-00180e33320f",
+    "relation": "owner",
+    "object": "organization:554a14ad-8e82-4077-ba7f-4c58e1c64584"
+  },
+  {
+    "user": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0",
+    "relation": "owner",
+    "object": "organization:ae012394-4d46-4d58-aa38-c57343350dd6"
+  },
+  {
+    "user": "user:b85de75d-4e53-4c43-bcb6-8963bc5a3bb9",
+    "relation": "owner",
+    "object": "organization:0f503322-7751-40a8-94ef-94c2490b8965"
+  },
+  {
+    "user": "user:162c3e18-b207-4352-b275-5e318c1a149a",
+    "relation": "owner",
+    "object": "organization:817d5687-4910-47ec-b500-250c30f5db6d"
+  },
+  {
+    "user": "user:eb85429a-e5e5-418d-8212-61395e017bc7",
+    "relation": "owner",
+    "object": "organization:bae820b7-899c-46d0-94c6-fd3e9972a845"
+  },
+  {
+    "user": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d",
+    "relation": "owner",
+    "object": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "owner",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1",
+    "relation": "owner",
+    "object": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63"
+  },
+  {
+    "user": "user:e6069e3f-3a87-4937-b154-4658edf39fc7",
+    "relation": "owner",
+    "object": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7"
+  },
+  {
+    "user": "user:68e56b6c-5e59-4e4a-8916-2ba12a60035e",
+    "relation": "owner",
+    "object": "organization:03de54dd-2d85-408e-ba17-703cc43520d3"
+  },
+  {
+    "user": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6",
+    "relation": "owner",
+    "object": "organization:eb216a14-0bfc-420e-99cd-259bcd76cb35"
+  },
+  {
+    "user": "user:eba182c9-470a-4976-829e-c9f929312488",
+    "relation": "owner",
+    "object": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b"
+  },
+  {
+    "user": "user:596994bb-3e60-4784-8bcc-51a46db3c362",
+    "relation": "owner",
+    "object": "organization:1885211c-b844-420b-9741-686711839f56"
+  },
+  {
+    "user": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73",
+    "relation": "owner",
+    "object": "organization:9411f6af-f092-4e38-acb3-421a433114b5"
+  },
+  {
+    "user": "user:c5a99188-c77e-45c7-94a7-736b3574e4e6",
+    "relation": "owner",
+    "object": "organization:7ce32214-ca0e-4ec0-8777-8cc5e010dbc7"
+  },
+  {
+    "user": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16",
+    "relation": "owner",
+    "object": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329"
+  },
+  {
+    "user": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201",
+    "relation": "owner",
+    "object": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff"
+  },
+  {
+    "user": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0",
+    "relation": "owner",
+    "object": "organization:dd123778-bc10-43fb-b959-35da5b8c2ac9"
+  },
+  {
+    "user": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5",
+    "relation": "owner",
+    "object": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "owner",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "user:76c6f931-4318-4c23-ba43-4ba7248678ac",
+    "relation": "owner",
+    "object": "organization:1f26a3e7-9a65-4076-bde7-af9503a419bb"
+  },
+  {
+    "user": "user:d29024af-7605-47a7-bf56-246bd6257cf7",
+    "relation": "owner",
+    "object": "organization:3f2e5711-98a8-4070-80c0-e248e5f04abc"
+  },
+  {
+    "user": "user:cf12ba55-0c4a-47ea-a23f-eceb95ee6d0e",
+    "relation": "owner",
+    "object": "organization:213bdfd2-bf43-4a38-a28b-9ced1a15009e"
+  },
+  {
+    "user": "user:7cdaf15b-4e76-4ce9-97b7-5c864e043460",
+    "relation": "owner",
+    "object": "organization:53027767-53ee-403b-b69e-c5a2e552d8c1"
+  },
+  {
+    "user": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e",
+    "relation": "owner",
+    "object": "organization:f700ea54-1eba-41ad-9429-3b41c372c857"
+  },
+  {
+    "user": "user:7727dbfc-3d32-4269-ab59-b01261badd57",
+    "relation": "owner",
+    "object": "organization:299b8b3e-0937-47b2-86c1-ea3272e52a4f"
+  },
+  {
+    "user": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8",
+    "relation": "owner",
+    "object": "organization:5ada24b6-8638-4d46-a822-912ed5acd725"
+  },
+  {
+    "user": "user:87bb7d3e-ca96-4192-8f73-9a42cf77d786",
+    "relation": "owner",
+    "object": "organization:e238f263-552f-4c43-a38c-5b6c83e0521c"
+  },
+  {
+    "user": "user:f017d5b1-4cc9-4bf3-83f5-ebc5df503896",
+    "relation": "owner",
+    "object": "organization:7146b196-7eae-4967-bf1c-a8edeab37610"
+  },
+  {
+    "user": "user:752232e7-5f22-4434-b38f-65bc40c60872",
+    "relation": "owner",
+    "object": "organization:7620bcb9-ee70-4c64-8d71-f5c996009e2d"
+  },
+  {
+    "user": "user:2bea844b-b69d-4d8b-82b7-7ed38a330823",
+    "relation": "owner",
+    "object": "organization:e6fa5f77-b81a-4019-bbcb-ef018a6349c5"
+  },
+  {
+    "user": "user:a59592c2-e9f5-4b24-9c03-eeadd9e21c74",
+    "relation": "owner",
+    "object": "organization:4f726671-4c70-482b-8e6d-42a2b7e23e10"
+  },
+  {
+    "user": "user:f4de6c93-9f60-48d2-b564-6c41f7dd2653",
+    "relation": "owner",
+    "object": "organization:dae3249e-5210-412f-af85-e6c8f55bf99b"
+  },
+  {
+    "user": "user:f2d2fabf-9950-4b2a-9cfc-6b0a4f5fc67f",
+    "relation": "owner",
+    "object": "organization:a4d76fc7-a693-4caf-8707-d389cce0b20d"
+  },
+  {
+    "user": "user:5e730186-705e-4ad0-beb6-1bf7c1cc5660",
+    "relation": "owner",
+    "object": "organization:50429c66-c96e-479a-a0fd-8bf81e63ab7e"
+  },
+  {
+    "user": "user:143015a9-3b1e-4c32-96cb-eeadec489a32",
+    "relation": "owner",
+    "object": "organization:054f5fc3-804a-4bb1-8a25-1e5ce506ae9a"
+  },
+  {
+    "user": "user:f459c3c6-456c-48f5-8ce0-073741373d55",
+    "relation": "owner",
+    "object": "organization:43362181-55e3-4089-9267-7b37f8d16d13"
+  },
+  {
+    "user": "user:91c18e87-a95d-43d1-b25e-5c2626243cec",
+    "relation": "owner",
+    "object": "organization:7d5644dc-afe0-491c-bb5e-55da559aae81"
+  },
+  {
+    "user": "user:72ec3d92-1256-4016-82b1-b2b2e8da6d57",
+    "relation": "owner",
+    "object": "organization:47baeb81-62ba-44ce-91bc-d7d43517871a"
+  },
+  {
+    "user": "user:c4010905-a660-4632-86d1-1dab80fae419",
+    "relation": "owner",
+    "object": "organization:34b59e45-849f-4de3-b323-617d0b8ed8c5"
+  },
+  {
+    "user": "user:4937c32d-fe3d-4e07-9d40-fbcb41adcf6c",
+    "relation": "owner",
+    "object": "organization:a226994a-9583-4d73-bbbf-74bda1689cdc"
+  },
+  {
+    "user": "user:74eec133-23b1-464f-aa70-7fcfb63b0654",
+    "relation": "owner",
+    "object": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7"
+  },
+  {
+    "user": "user:dd061000-f973-4a82-afec-7470d6c8527f",
+    "relation": "owner",
+    "object": "organization:818da212-1152-4bf8-bb67-34872e7a0b04"
+  },
+  {
+    "user": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c",
+    "relation": "owner",
+    "object": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259"
+  },
+  {
+    "user": "user:9b19578b-2c90-466d-a555-f8035d0b9ace",
+    "relation": "owner",
+    "object": "organization:afaf7569-78f3-4b73-b2e3-836213dcb230"
+  },
+  {
+    "user": "user:35625113-df7b-40bf-8847-4bba5bdacbec",
+    "relation": "owner",
+    "object": "organization:79f66536-6950-4a66-b48c-fa7a26cc1fee"
+  },
+  {
+    "user": "user:6ee83cbf-5be3-4d71-8374-a01152b5b4f2",
+    "relation": "owner",
+    "object": "organization:c313a51b-3dc2-4f06-8a0a-a3fc11ca5c6a"
+  },
+  {
+    "user": "user:1a76d2b9-2e03-4f2c-aad9-21bb2ed57e82",
+    "relation": "owner",
+    "object": "organization:7305b8cd-ce3d-4df4-8e04-27b3e1b039d6"
+  },
+  {
+    "user": "user:19111b0f-82dd-45fe-8d9b-6d60cb3cb377",
+    "relation": "owner",
+    "object": "organization:5a4405d3-c259-402a-82f9-c7dddd10b6b2"
+  },
+  {
+    "user": "user:e58bea16-c41c-4b3e-80a8-9138316df9d0",
+    "relation": "owner",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8",
+    "relation": "consultant",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8",
+    "relation": "consultant",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "user:c18a3649-f696-4e0e-aa86-f6ce9ec43a45",
+    "relation": "reporter",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "owner",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "reporter",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "user:6f5735cb-0388-4e42-a424-a4f58949d784",
+    "relation": "super_admin",
+    "object": "system:main"
+  },
+  {
+    "user": "user:f56f8340-c26e-4f45-8c9c-66f35f86296c",
+    "relation": "super_admin",
+    "object": "system:main"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:76bac768-a213-4c42-93d8-cea6d12933ce"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:d86e7559-72fd-4aba-9b00-30e9ab155899"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:554a14ad-8e82-4077-ba7f-4c58e1c64584"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:ae012394-4d46-4d58-aa38-c57343350dd6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:0f503322-7751-40a8-94ef-94c2490b8965"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:817d5687-4910-47ec-b500-250c30f5db6d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:bae820b7-899c-46d0-94c6-fd3e9972a845"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:03de54dd-2d85-408e-ba17-703cc43520d3"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:eb216a14-0bfc-420e-99cd-259bcd76cb35"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:1885211c-b844-420b-9741-686711839f56"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:9411f6af-f092-4e38-acb3-421a433114b5"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:7ce32214-ca0e-4ec0-8777-8cc5e010dbc7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:dd123778-bc10-43fb-b959-35da5b8c2ac9"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:1f26a3e7-9a65-4076-bde7-af9503a419bb"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:3f2e5711-98a8-4070-80c0-e248e5f04abc"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:213bdfd2-bf43-4a38-a28b-9ced1a15009e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:53027767-53ee-403b-b69e-c5a2e552d8c1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:f700ea54-1eba-41ad-9429-3b41c372c857"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:299b8b3e-0937-47b2-86c1-ea3272e52a4f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:5ada24b6-8638-4d46-a822-912ed5acd725"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:e238f263-552f-4c43-a38c-5b6c83e0521c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:7146b196-7eae-4967-bf1c-a8edeab37610"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:7620bcb9-ee70-4c64-8d71-f5c996009e2d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:e6fa5f77-b81a-4019-bbcb-ef018a6349c5"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:4f726671-4c70-482b-8e6d-42a2b7e23e10"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:dae3249e-5210-412f-af85-e6c8f55bf99b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:a4d76fc7-a693-4caf-8707-d389cce0b20d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:50429c66-c96e-479a-a0fd-8bf81e63ab7e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:054f5fc3-804a-4bb1-8a25-1e5ce506ae9a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:43362181-55e3-4089-9267-7b37f8d16d13"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:7d5644dc-afe0-491c-bb5e-55da559aae81"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:47baeb81-62ba-44ce-91bc-d7d43517871a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:34b59e45-849f-4de3-b323-617d0b8ed8c5"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:a226994a-9583-4d73-bbbf-74bda1689cdc"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:818da212-1152-4bf8-bb67-34872e7a0b04"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:afaf7569-78f3-4b73-b2e3-836213dcb230"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:79f66536-6950-4a66-b48c-fa7a26cc1fee"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:c313a51b-3dc2-4f06-8a0a-a3fc11ca5c6a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:7305b8cd-ce3d-4df4-8e04-27b3e1b039d6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:5a4405d3-c259-402a-82f9-c7dddd10b6b2"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c",
+    "relation": "owner",
+    "object": "organization:76bac768-a213-4c42-93d8-cea6d12933ce"
+  },
+  {
+    "user": "user:e5e4e4d1-73f4-4893-9dda-9487894321da",
+    "relation": "owner",
+    "object": "organization:d86e7559-72fd-4aba-9b00-30e9ab155899"
+  },
+  {
+    "user": "user:288d2b98-e650-46be-99ce-6087129f03e8",
+    "relation": "owner",
+    "object": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f"
+  },
+  {
+    "user": "user:ee7c41f3-97d9-4175-aed0-00180e33320f",
+    "relation": "owner",
+    "object": "organization:554a14ad-8e82-4077-ba7f-4c58e1c64584"
+  },
+  {
+    "user": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0",
+    "relation": "owner",
+    "object": "organization:ae012394-4d46-4d58-aa38-c57343350dd6"
+  },
+  {
+    "user": "user:b85de75d-4e53-4c43-bcb6-8963bc5a3bb9",
+    "relation": "owner",
+    "object": "organization:0f503322-7751-40a8-94ef-94c2490b8965"
+  },
+  {
+    "user": "user:162c3e18-b207-4352-b275-5e318c1a149a",
+    "relation": "owner",
+    "object": "organization:817d5687-4910-47ec-b500-250c30f5db6d"
+  },
+  {
+    "user": "user:eb85429a-e5e5-418d-8212-61395e017bc7",
+    "relation": "owner",
+    "object": "organization:bae820b7-899c-46d0-94c6-fd3e9972a845"
+  },
+  {
+    "user": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d",
+    "relation": "owner",
+    "object": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "owner",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1",
+    "relation": "owner",
+    "object": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63"
+  },
+  {
+    "user": "user:e6069e3f-3a87-4937-b154-4658edf39fc7",
+    "relation": "owner",
+    "object": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7"
+  },
+  {
+    "user": "user:68e56b6c-5e59-4e4a-8916-2ba12a60035e",
+    "relation": "owner",
+    "object": "organization:03de54dd-2d85-408e-ba17-703cc43520d3"
+  },
+  {
+    "user": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6",
+    "relation": "owner",
+    "object": "organization:eb216a14-0bfc-420e-99cd-259bcd76cb35"
+  },
+  {
+    "user": "user:eba182c9-470a-4976-829e-c9f929312488",
+    "relation": "owner",
+    "object": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b"
+  },
+  {
+    "user": "user:596994bb-3e60-4784-8bcc-51a46db3c362",
+    "relation": "owner",
+    "object": "organization:1885211c-b844-420b-9741-686711839f56"
+  },
+  {
+    "user": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73",
+    "relation": "owner",
+    "object": "organization:9411f6af-f092-4e38-acb3-421a433114b5"
+  },
+  {
+    "user": "user:c5a99188-c77e-45c7-94a7-736b3574e4e6",
+    "relation": "owner",
+    "object": "organization:7ce32214-ca0e-4ec0-8777-8cc5e010dbc7"
+  },
+  {
+    "user": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16",
+    "relation": "owner",
+    "object": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329"
+  },
+  {
+    "user": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201",
+    "relation": "owner",
+    "object": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff"
+  },
+  {
+    "user": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0",
+    "relation": "owner",
+    "object": "organization:dd123778-bc10-43fb-b959-35da5b8c2ac9"
+  },
+  {
+    "user": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5",
+    "relation": "owner",
+    "object": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "owner",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "user:76c6f931-4318-4c23-ba43-4ba7248678ac",
+    "relation": "owner",
+    "object": "organization:1f26a3e7-9a65-4076-bde7-af9503a419bb"
+  },
+  {
+    "user": "user:d29024af-7605-47a7-bf56-246bd6257cf7",
+    "relation": "owner",
+    "object": "organization:3f2e5711-98a8-4070-80c0-e248e5f04abc"
+  },
+  {
+    "user": "user:cf12ba55-0c4a-47ea-a23f-eceb95ee6d0e",
+    "relation": "owner",
+    "object": "organization:213bdfd2-bf43-4a38-a28b-9ced1a15009e"
+  },
+  {
+    "user": "user:7cdaf15b-4e76-4ce9-97b7-5c864e043460",
+    "relation": "owner",
+    "object": "organization:53027767-53ee-403b-b69e-c5a2e552d8c1"
+  },
+  {
+    "user": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e",
+    "relation": "owner",
+    "object": "organization:f700ea54-1eba-41ad-9429-3b41c372c857"
+  },
+  {
+    "user": "user:7727dbfc-3d32-4269-ab59-b01261badd57",
+    "relation": "owner",
+    "object": "organization:299b8b3e-0937-47b2-86c1-ea3272e52a4f"
+  },
+  {
+    "user": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8",
+    "relation": "owner",
+    "object": "organization:5ada24b6-8638-4d46-a822-912ed5acd725"
+  },
+  {
+    "user": "user:87bb7d3e-ca96-4192-8f73-9a42cf77d786",
+    "relation": "owner",
+    "object": "organization:e238f263-552f-4c43-a38c-5b6c83e0521c"
+  },
+  {
+    "user": "user:f017d5b1-4cc9-4bf3-83f5-ebc5df503896",
+    "relation": "owner",
+    "object": "organization:7146b196-7eae-4967-bf1c-a8edeab37610"
+  },
+  {
+    "user": "user:752232e7-5f22-4434-b38f-65bc40c60872",
+    "relation": "owner",
+    "object": "organization:7620bcb9-ee70-4c64-8d71-f5c996009e2d"
+  },
+  {
+    "user": "user:2bea844b-b69d-4d8b-82b7-7ed38a330823",
+    "relation": "owner",
+    "object": "organization:e6fa5f77-b81a-4019-bbcb-ef018a6349c5"
+  },
+  {
+    "user": "user:a59592c2-e9f5-4b24-9c03-eeadd9e21c74",
+    "relation": "owner",
+    "object": "organization:4f726671-4c70-482b-8e6d-42a2b7e23e10"
+  },
+  {
+    "user": "user:f4de6c93-9f60-48d2-b564-6c41f7dd2653",
+    "relation": "owner",
+    "object": "organization:dae3249e-5210-412f-af85-e6c8f55bf99b"
+  },
+  {
+    "user": "user:f2d2fabf-9950-4b2a-9cfc-6b0a4f5fc67f",
+    "relation": "owner",
+    "object": "organization:a4d76fc7-a693-4caf-8707-d389cce0b20d"
+  },
+  {
+    "user": "user:5e730186-705e-4ad0-beb6-1bf7c1cc5660",
+    "relation": "owner",
+    "object": "organization:50429c66-c96e-479a-a0fd-8bf81e63ab7e"
+  },
+  {
+    "user": "user:143015a9-3b1e-4c32-96cb-eeadec489a32",
+    "relation": "owner",
+    "object": "organization:054f5fc3-804a-4bb1-8a25-1e5ce506ae9a"
+  },
+  {
+    "user": "user:f459c3c6-456c-48f5-8ce0-073741373d55",
+    "relation": "owner",
+    "object": "organization:43362181-55e3-4089-9267-7b37f8d16d13"
+  },
+  {
+    "user": "user:91c18e87-a95d-43d1-b25e-5c2626243cec",
+    "relation": "owner",
+    "object": "organization:7d5644dc-afe0-491c-bb5e-55da559aae81"
+  },
+  {
+    "user": "user:72ec3d92-1256-4016-82b1-b2b2e8da6d57",
+    "relation": "owner",
+    "object": "organization:47baeb81-62ba-44ce-91bc-d7d43517871a"
+  },
+  {
+    "user": "user:c4010905-a660-4632-86d1-1dab80fae419",
+    "relation": "owner",
+    "object": "organization:34b59e45-849f-4de3-b323-617d0b8ed8c5"
+  },
+  {
+    "user": "user:4937c32d-fe3d-4e07-9d40-fbcb41adcf6c",
+    "relation": "owner",
+    "object": "organization:a226994a-9583-4d73-bbbf-74bda1689cdc"
+  },
+  {
+    "user": "user:74eec133-23b1-464f-aa70-7fcfb63b0654",
+    "relation": "owner",
+    "object": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7"
+  },
+  {
+    "user": "user:dd061000-f973-4a82-afec-7470d6c8527f",
+    "relation": "owner",
+    "object": "organization:818da212-1152-4bf8-bb67-34872e7a0b04"
+  },
+  {
+    "user": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c",
+    "relation": "owner",
+    "object": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259"
+  },
+  {
+    "user": "user:9b19578b-2c90-466d-a555-f8035d0b9ace",
+    "relation": "owner",
+    "object": "organization:afaf7569-78f3-4b73-b2e3-836213dcb230"
+  },
+  {
+    "user": "user:35625113-df7b-40bf-8847-4bba5bdacbec",
+    "relation": "owner",
+    "object": "organization:79f66536-6950-4a66-b48c-fa7a26cc1fee"
+  },
+  {
+    "user": "user:6ee83cbf-5be3-4d71-8374-a01152b5b4f2",
+    "relation": "owner",
+    "object": "organization:c313a51b-3dc2-4f06-8a0a-a3fc11ca5c6a"
+  },
+  {
+    "user": "user:1a76d2b9-2e03-4f2c-aad9-21bb2ed57e82",
+    "relation": "owner",
+    "object": "organization:7305b8cd-ce3d-4df4-8e04-27b3e1b039d6"
+  },
+  {
+    "user": "user:19111b0f-82dd-45fe-8d9b-6d60cb3cb377",
+    "relation": "owner",
+    "object": "organization:5a4405d3-c259-402a-82f9-c7dddd10b6b2"
+  },
+  {
+    "user": "user:e58bea16-c41c-4b3e-80a8-9138316df9d0",
+    "relation": "owner",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8",
+    "relation": "consultant",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:d3fbc7a3-65f3-4b9d-8e58-44d191d762e8",
+    "relation": "consultant",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "user:c18a3649-f696-4e0e-aa86-f6ce9ec43a45",
+    "relation": "reporter",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "owner",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "reporter",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:f799808f-c2a9-4aa0-b09e-121b19777f46",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:4437d513-a036-46bc-b34f-f8f870492b6a",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:6e72ee31-201b-4ec8-9e46-09aafaf47af1",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:90ef90a2-bf9a-4612-9044-80cf1d5471e5",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:3da7edb3-2534-4a7d-a15e-512bf9d09b88",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:78db2d60-4982-40c0-ace6-e3794d24a3ed",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:1262a488-bc0a-4796-8678-11ff0b007040",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:5273a2dc-aefe-4b17-a46a-b5ad2b23ba82",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:28fdd02c-7ad3-4561-a92f-f50df249d80d",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:2a438f7f-4e95-44c8-88bb-688411a0266d",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:ef3eed76-a2d9-44be-8eb7-ab114cd32e83",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:28456265-c1c1-4712-b939-0bd20d23d7d9",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:c991382f-8018-4ec0-88a8-c300ded7904b",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:391009ab-39f3-4cd5-a585-cfa7dfa3ddb7",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:085c4f39-ccbc-4c66-bdee-9f970430f32d",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:114be264-b6f3-46ec-9880-145146c6a4ca",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:550c36ff-0116-4651-9772-95ffa23144fe",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:198f89dd-5a68-4dd9-9287-9d9c82b80e78",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:a2755d1c-ef6e-40c4-ac15-6b357400b63c",
+    "relation": "owned_by",
+    "object": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a"
+  },
+  {
+    "user": "sensor:0d85c442-d40b-4c01-8ff9-10dab747944b",
+    "relation": "owned_by",
+    "object": "organization:781eb476-e745-4c38-aece-913bbb8f50cd"
+  },
+  {
+    "user": "sensor:0a2d2727-4bd9-4394-9a90-904047ed8bbe",
+    "relation": "owned_by",
+    "object": "organization:3f2e5711-98a8-4070-80c0-e248e5f04abc"
+  },
+  {
+    "user": "sensor:04c7fbb7-8b39-4ecc-bc53-f0d0901217ef",
+    "relation": "owned_by",
+    "object": "organization:213bdfd2-bf43-4a38-a28b-9ced1a15009e"
+  },
+  {
+    "user": "sensor:0a4590b9-b869-49d5-a77d-cd751491792f",
+    "relation": "owned_by",
+    "object": "organization:7146b196-7eae-4967-bf1c-a8edeab37610"
+  },
+  {
+    "user": "sensor:160b5003-6df0-468e-8be4-d7cf507f0305",
+    "relation": "owned_by",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce",
+    "relation": "owned_by",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "sensor:6af7f01a-7e28-48d3-bf4d-808cd0d89d73",
+    "relation": "owned_by",
+    "object": "organization:50429c66-c96e-479a-a0fd-8bf81e63ab7e"
+  },
+  {
+    "user": "sensor:3cf49eac-0e7d-4cde-af09-0378c891eb1e",
+    "relation": "owned_by",
+    "object": "organization:76bac768-a213-4c42-93d8-cea6d12933ce"
+  },
+  {
+    "user": "sensor:37ef9295-91c1-4cec-9c0d-65c4846a2b98",
+    "relation": "owned_by",
+    "object": "organization:5ada24b6-8638-4d46-a822-912ed5acd725"
+  },
+  {
+    "user": "sensor:9a219497-a804-4ffc-a500-2f463767a314",
+    "relation": "owned_by",
+    "object": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca"
+  },
+  {
+    "user": "sensor:aa8fbabb-1a3b-45af-8b95-a356c690a42e",
+    "relation": "owned_by",
+    "object": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329"
+  },
+  {
+    "user": "sensor:3d0dc94b-3040-4214-bdd9-5779752b148b",
+    "relation": "owned_by",
+    "object": "organization:7ce32214-ca0e-4ec0-8777-8cc5e010dbc7"
+  },
+  {
+    "user": "sensor:4203631e-a7ee-4ac0-8227-0e27898d6cc9",
+    "relation": "owned_by",
+    "object": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7"
+  },
+  {
+    "user": "sensor:3e2cfaac-8b66-4278-94e9-42a4efa2e2e9",
+    "relation": "owned_by",
+    "object": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b"
+  },
+  {
+    "user": "sensor:43344490-14aa-4956-b5ac-173797be0013",
+    "relation": "owned_by",
+    "object": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca"
+  },
+  {
+    "user": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469",
+    "relation": "owned_by",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "sensor:472ab713-1bef-439f-b9dc-bc2a79e45bf1",
+    "relation": "owned_by",
+    "object": "organization:817d5687-4910-47ec-b500-250c30f5db6d"
+  },
+  {
+    "user": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d",
+    "relation": "owned_by",
+    "object": "organization:7305b8cd-ce3d-4df4-8e04-27b3e1b039d6"
+  },
+  {
+    "user": "sensor:60dc2bef-aefe-44d1-ba38-608d038ca2ad",
+    "relation": "owned_by",
+    "object": "organization:a4d76fc7-a693-4caf-8707-d389cce0b20d"
+  },
+  {
+    "user": "sensor:4ac25d6f-aab8-458c-8cee-cc051f30bee9",
+    "relation": "owned_by",
+    "object": "organization:818da212-1152-4bf8-bb67-34872e7a0b04"
+  },
+  {
+    "user": "sensor:733e3aa2-147c-448d-9a8d-bdfefc999c47",
+    "relation": "owned_by",
+    "object": "organization:e6fa5f77-b81a-4019-bbcb-ef018a6349c5"
+  },
+  {
+    "user": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58",
+    "relation": "owned_by",
+    "object": "organization:ae012394-4d46-4d58-aa38-c57343350dd6"
+  },
+  {
+    "user": "sensor:73548d13-3d34-452b-8d0f-5015a83b06ef",
+    "relation": "owned_by",
+    "object": "organization:f700ea54-1eba-41ad-9429-3b41c372c857"
+  },
+  {
+    "user": "sensor:73b46d01-2f0c-4a1f-96d0-6efdd5f73b53",
+    "relation": "owned_by",
+    "object": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff"
+  },
+  {
+    "user": "sensor:7edcd509-e2c2-4d2b-b298-09eaf935167c",
+    "relation": "owned_by",
+    "object": "organization:9411f6af-f092-4e38-acb3-421a433114b5"
+  },
+  {
+    "user": "sensor:75487540-0657-4c3f-87d7-ed186e198fa5",
+    "relation": "owned_by",
+    "object": "organization:34b59e45-849f-4de3-b323-617d0b8ed8c5"
+  },
+  {
+    "user": "sensor:811f3e1d-658e-465e-9c83-f52f1323dfce",
+    "relation": "owned_by",
+    "object": "organization:5ada24b6-8638-4d46-a822-912ed5acd725"
+  },
+  {
+    "user": "sensor:76f2875e-aa12-443b-b894-9a5187973670",
+    "relation": "owned_by",
+    "object": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f"
+  },
+  {
+    "user": "sensor:b21ecb67-e3c7-4f40-9b55-4eeae0ba17bf",
+    "relation": "owned_by",
+    "object": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b"
+  },
+  {
+    "user": "sensor:88592bcc-66e8-447b-8b71-f40baf62eda8",
+    "relation": "owned_by",
+    "object": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7"
+  },
+  {
+    "user": "sensor:156b1fc1-ee0e-413c-a376-2143b103ec20",
+    "relation": "owned_by",
+    "object": "organization:7620bcb9-ee70-4c64-8d71-f5c996009e2d"
+  },
+  {
+    "user": "sensor:8bbd9234-3c97-4b2a-8784-2445c03139d2",
+    "relation": "owned_by",
+    "object": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f"
+  },
+  {
+    "user": "sensor:1caed7cb-3136-4dd8-86d6-8f43a9e4fb39",
+    "relation": "owned_by",
+    "object": "organization:dae3249e-5210-412f-af85-e6c8f55bf99b"
+  },
+  {
+    "user": "sensor:1e693aaa-bef5-42ae-9617-3906445b4d3b",
+    "relation": "owned_by",
+    "object": "organization:a226994a-9583-4d73-bbbf-74bda1689cdc"
+  },
+  {
+    "user": "sensor:4af78555-b686-4aef-84c4-80fe9cbf8601",
+    "relation": "owned_by",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "sensor:277097c9-f7f4-4378-b91d-51496cfdd3c6",
+    "relation": "owned_by",
+    "object": "organization:054f5fc3-804a-4bb1-8a25-1e5ce506ae9a"
+  },
+  {
+    "user": "sensor:44fb8375-a859-452b-b75d-7b117a49c436",
+    "relation": "owned_by",
+    "object": "organization:afaf7569-78f3-4b73-b2e3-836213dcb230"
+  },
+  {
+    "user": "sensor:50a22996-5ace-4cb0-9bc2-1e15b6cab9ff",
+    "relation": "owned_by",
+    "object": "organization:1f26a3e7-9a65-4076-bde7-af9503a419bb"
+  },
+  {
+    "user": "sensor:59b6d423-9309-494c-8e96-bf6cece0c095",
+    "relation": "owned_by",
+    "object": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7"
+  },
+  {
+    "user": "sensor:2cd597f5-5a74-476b-a3bd-09e6ef680ad3",
+    "relation": "owned_by",
+    "object": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7"
+  },
+  {
+    "user": "sensor:1f22608e-2cb6-49aa-8fc3-ff38fc2a1f84",
+    "relation": "owned_by",
+    "object": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74"
+  },
+  {
+    "user": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40",
+    "relation": "owned_by",
+    "object": "organization:ae012394-4d46-4d58-aa38-c57343350dd6"
+  },
+  {
+    "user": "sensor:31970904-5eb6-4109-b6a6-fdfb3d31159a",
+    "relation": "owned_by",
+    "object": "organization:53027767-53ee-403b-b69e-c5a2e552d8c1"
+  },
+  {
+    "user": "sensor:f64b3852-5146-45d0-8746-f3aba1962c26",
+    "relation": "owned_by",
+    "object": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259"
+  },
+  {
+    "user": "sensor:faf38977-c883-4faa-9a14-f5877463dca2",
+    "relation": "owned_by",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "sensor:5f4ea18c-7216-4209-8c56-62ba56898c9e",
+    "relation": "owned_by",
+    "object": "organization:47baeb81-62ba-44ce-91bc-d7d43517871a"
+  },
+  {
+    "user": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f",
+    "relation": "owned_by",
+    "object": "organization:bae820b7-899c-46d0-94c6-fd3e9972a845"
+  },
+  {
+    "user": "sensor:c3c72ada-0b81-46a6-870a-55f868be7877",
+    "relation": "owned_by",
+    "object": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259"
+  },
+  {
+    "user": "sensor:f672dbc2-eaf0-444d-8b31-f52bce955b9d",
+    "relation": "owned_by",
+    "object": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63"
+  },
+  {
+    "user": "sensor:e673d911-fefb-4bac-81b2-650f2e9c110b",
+    "relation": "owned_by",
+    "object": "organization:f700ea54-1eba-41ad-9429-3b41c372c857"
+  },
+  {
+    "user": "sensor:5df2795d-9630-4ae8-93a4-a78da7949c8d",
+    "relation": "owned_by",
+    "object": "organization:7d5644dc-afe0-491c-bb5e-55da559aae81"
+  },
+  {
+    "user": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab",
+    "relation": "owned_by",
+    "object": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329"
+  },
+  {
+    "user": "sensor:f20d09c6-7353-4720-9d85-0e5bf63271fd",
+    "relation": "owned_by",
+    "object": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74"
+  },
+  {
+    "user": "sensor:ef652508-a7af-43fd-a943-620cd3dcb7d6",
+    "relation": "owned_by",
+    "object": "organization:5a4405d3-c259-402a-82f9-c7dddd10b6b2"
+  },
+  {
+    "user": "sensor:fb64738c-b3c4-4530-bd20-218a5c9055ef",
+    "relation": "owned_by",
+    "object": "organization:4f726671-4c70-482b-8e6d-42a2b7e23e10"
+  },
+  {
+    "user": "sensor:d05dc51b-4424-4b0c-8ef0-a589e7874557",
+    "relation": "owned_by",
+    "object": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff"
+  },
+  {
+    "user": "sensor:ffccece9-b77b-4653-af0e-a71dcd995475",
+    "relation": "owned_by",
+    "object": "organization:e238f263-552f-4c43-a38c-5b6c83e0521c"
+  },
+  {
+    "user": "sensor:77d1a2a1-3fa9-46be-982e-c2add66e6b5a",
+    "relation": "owned_by",
+    "object": "organization:0f503322-7751-40a8-94ef-94c2490b8965"
+  },
+  {
+    "user": "sensor:d6804190-0fe5-4179-a7ae-c07363951315",
+    "relation": "owned_by",
+    "object": "organization:1885211c-b844-420b-9741-686711839f56"
+  },
+  {
+    "user": "sensor:fe588f82-435a-4e5f-b450-40ce9938377a",
+    "relation": "owned_by",
+    "object": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63"
+  },
+  {
+    "user": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d",
+    "relation": "owned_by",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d",
+    "relation": "owned_by",
+    "object": "organization:1cf6b16a-7514-4569-9e39-050641ee2870"
+  },
+  {
+    "user": "sensor:1b7a072a-8001-44df-a9b4-26519476c70d",
+    "relation": "owned_by",
+    "object": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4"
+  },
+  {
+    "user": "sensor:f90e65a7-095d-4e9d-bce5-44150b59c442",
+    "relation": "owned_by",
+    "object": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:f799808f-c2a9-4aa0-b09e-121b19777f46"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:4437d513-a036-46bc-b34f-f8f870492b6a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:6e72ee31-201b-4ec8-9e46-09aafaf47af1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:90ef90a2-bf9a-4612-9044-80cf1d5471e5"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3da7edb3-2534-4a7d-a15e-512bf9d09b88"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:78db2d60-4982-40c0-ace6-e3794d24a3ed"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1262a488-bc0a-4796-8678-11ff0b007040"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:5273a2dc-aefe-4b17-a46a-b5ad2b23ba82"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:28fdd02c-7ad3-4561-a92f-f50df249d80d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:2a438f7f-4e95-44c8-88bb-688411a0266d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:ef3eed76-a2d9-44be-8eb7-ab114cd32e83"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:28456265-c1c1-4712-b939-0bd20d23d7d9"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:c991382f-8018-4ec0-88a8-c300ded7904b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:391009ab-39f3-4cd5-a585-cfa7dfa3ddb7"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:085c4f39-ccbc-4c66-bdee-9f970430f32d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:114be264-b6f3-46ec-9880-145146c6a4ca"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:550c36ff-0116-4651-9772-95ffa23144fe"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:198f89dd-5a68-4dd9-9287-9d9c82b80e78"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:a2755d1c-ef6e-40c4-ac15-6b357400b63c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:c74580e2-eba6-44c6-bf5e-95546148e673"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:d17dc84d-c2d6-41b5-b48d-e35bd71d12af"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:6d983c95-94f1-4a53-869f-da4f0aa6c571"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:75e97a16-9602-4c31-bde4-85937657267e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:82dcb1bd-26c1-4439-b518-7abaee0d4a77"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:9c7075b0-6333-46aa-8f44-de89e7e9b00f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:a0fff3b4-1028-4191-bd54-b1ce1bc7e08e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:f3a5ec61-f396-4b22-a90e-1b5941699edf"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:af53a2d9-38f3-43fa-a8d1-0ab8ec0b22f6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:7a8e1b5c-1886-4a03-8f29-83a6ea99e547"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:9a361c49-ad3f-4397-a63e-1dbd215a4f28"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:0d85c442-d40b-4c01-8ff9-10dab747944b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:0a2d2727-4bd9-4394-9a90-904047ed8bbe"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:04c7fbb7-8b39-4ecc-bc53-f0d0901217ef"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:0a4590b9-b869-49d5-a77d-cd751491792f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:160b5003-6df0-468e-8be4-d7cf507f0305"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3123102f-2063-4022-be4f-cc0c9774f5d0"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1b6d757d-b213-48c5-bc49-28fd4da2ce0e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:578f014a-f952-4453-90bd-c409608a6db8"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:fb008696-2ca1-4f77-9b09-9ca3dbad3a82"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:6cd9b438-1169-44a8-8a5f-d91f6ba18691"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:12032b52-6135-4f0c-8e09-91ad6f172cdf"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:78efc5b2-13fc-4714-938a-c67a9289506b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:70344a38-d2b6-455e-b7e7-451ff4115c8b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:8f5fb7d0-3287-4b7f-a61f-49cf2b0960c1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:24ff4133-706b-4cc8-aad0-d94a5e7d807f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:2bbac5ef-a7ea-4858-806c-b1bcbbcebb9b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:32982c89-0303-434d-a786-35a77f79c17a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:02d39d46-7461-4f77-9ab3-ec4e90528e09"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:65bac4a2-9903-402d-94c9-c871fe8102cd"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:71f741b8-8e7e-4aa5-85c6-5b48e52de229"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:ee9a0e64-7372-4a07-8a53-4857be590b22"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:396b4066-c996-4754-b566-7bd55eb5cd33"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3a57f58e-71b9-4685-adfa-c14f60bfdb83"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:632fc1f5-3306-4d08-852e-5e0fee1e0494"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:a76713b8-ae81-429c-8ff1-fa0fc08e78d6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:e0e5e942-cf66-4f1e-98ae-7454bf9d0b23"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:28598fea-0854-4303-af54-b1a8dec0ab52"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:c9a27bba-9297-4a36-9e30-d6af5b3a9ee8"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:4fd9f751-aa72-48b6-b46d-c3214e8e414f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:9663e7e9-1095-4e93-a022-e014f976736e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:45eb1eea-2bcc-4824-929b-86b479033d5a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1cbc1d4a-4763-40f5-8d24-4a4cf264380b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:931bac20-290d-4fc4-9762-c72e996f19c1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:9ef1a78c-8c3f-47ac-8c99-e06002fe0cba"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1e569e4d-d88e-4ca2-b405-0fa34ad1c5fc"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:6af7f01a-7e28-48d3-bf4d-808cd0d89d73"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3cf49eac-0e7d-4cde-af09-0378c891eb1f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3cf49eac-0e7d-4cde-af09-0378c891eb1e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:37ef9295-91c1-4cec-9c0d-65c4846a2b98"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:9a219497-a804-4ffc-a500-2f463767a314"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:aa8fbabb-1a3b-45af-8b95-a356c690a42e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3d0dc94b-3040-4214-bdd9-5779752b148b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:4203631e-a7ee-4ac0-8227-0e27898d6cc9"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3e2cfaac-8b66-4278-94e9-42a4efa2e2e9"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:472ab713-1bef-439f-b9dc-bc2a79e45bf1"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:60dc2bef-aefe-44d1-ba38-608d038ca2ad"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:4ac25d6f-aab8-458c-8cee-cc051f30bee9"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:733e3aa2-147c-448d-9a8d-bdfefc999c47"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:73548d13-3d34-452b-8d0f-5015a83b06ef"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:73b46d01-2f0c-4a1f-96d0-6efdd5f73b53"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:7edcd509-e2c2-4d2b-b298-09eaf935167c"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:75487540-0657-4c3f-87d7-ed186e198fa5"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:811f3e1d-658e-465e-9c83-f52f1323dfce"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:76f2875e-aa12-443b-b894-9a5187973670"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:b21ecb67-e3c7-4f40-9b55-4eeae0ba17bf"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:88592bcc-66e8-447b-8b71-f40baf62eda8"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:156b1fc1-ee0e-413c-a376-2143b103ec20"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:8bbd9234-3c97-4b2a-8784-2445c03139d2"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1caed7cb-3136-4dd8-86d6-8f43a9e4fb39"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1e693aaa-bef5-42ae-9617-3906445b4d3b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:4af78555-b686-4aef-84c4-80fe9cbf8601"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:277097c9-f7f4-4378-b91d-51496cfdd3c6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:44fb8375-a859-452b-b75d-7b117a49c436"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:50a22996-5ace-4cb0-9bc2-1e15b6cab9ff"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:59b6d423-9309-494c-8e96-bf6cece0c095"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:2cd597f5-5a74-476b-a3bd-09e6ef680ad3"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1f22608e-2cb6-49aa-8fc3-ff38fc2a1f84"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:31970904-5eb6-4109-b6a6-fdfb3d31159a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:f64b3852-5146-45d0-8746-f3aba1962c26"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:faf38977-c883-4faa-9a14-f5877463dca2"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:5f4ea18c-7216-4209-8c56-62ba56898c9e"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:c3c72ada-0b81-46a6-870a-55f868be7877"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:f672dbc2-eaf0-444d-8b31-f52bce955b9d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:e673d911-fefb-4bac-81b2-650f2e9c110b"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:5df2795d-9630-4ae8-93a4-a78da7949c8d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:f20d09c6-7353-4720-9d85-0e5bf63271fd"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:ef652508-a7af-43fd-a943-620cd3dcb7d6"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:fb64738c-b3c4-4530-bd20-218a5c9055ef"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:d05dc51b-4424-4b0c-8ef0-a589e7874557"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:ffccece9-b77b-4653-af0e-a71dcd995475"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:77d1a2a1-3fa9-46be-982e-c2add66e6b5a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:d6804190-0fe5-4179-a7ae-c07363951315"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:fe588f82-435a-4e5f-b450-40ce9938377a"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:1b7a072a-8001-44df-a9b4-26519476c70d"
+  },
+  {
+    "user": "system:main",
+    "relation": "platform",
+    "object": "sensor:f90e65a7-095d-4e9d-bce5-44150b59c442"
+  },
+  {
+    "user": "organization:76bac768-a213-4c42-93d8-cea6d12933ce",
+    "relation": "owner",
+    "object": "sensor:3cf49eac-0e7d-4cde-af09-0378c891eb1e"
+  },
+  {
+    "user": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f",
+    "relation": "owner",
+    "object": "sensor:76f2875e-aa12-443b-b894-9a5187973670"
+  },
+  {
+    "user": "organization:c956be7d-2239-4dc8-89f5-0e14e4e74b1f",
+    "relation": "owner",
+    "object": "sensor:8bbd9234-3c97-4b2a-8784-2445c03139d2"
+  },
+  {
+    "user": "organization:ae012394-4d46-4d58-aa38-c57343350dd6",
+    "relation": "owner",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "organization:ae012394-4d46-4d58-aa38-c57343350dd6",
+    "relation": "owner",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "organization:0f503322-7751-40a8-94ef-94c2490b8965",
+    "relation": "owner",
+    "object": "sensor:77d1a2a1-3fa9-46be-982e-c2add66e6b5a"
+  },
+  {
+    "user": "organization:817d5687-4910-47ec-b500-250c30f5db6d",
+    "relation": "owner",
+    "object": "sensor:472ab713-1bef-439f-b9dc-bc2a79e45bf1"
+  },
+  {
+    "user": "organization:bae820b7-899c-46d0-94c6-fd3e9972a845",
+    "relation": "owner",
+    "object": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f"
+  },
+  {
+    "user": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74",
+    "relation": "owner",
+    "object": "sensor:1f22608e-2cb6-49aa-8fc3-ff38fc2a1f84"
+  },
+  {
+    "user": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74",
+    "relation": "owner",
+    "object": "sensor:f20d09c6-7353-4720-9d85-0e5bf63271fd"
+  },
+  {
+    "user": "organization:07a4a5e8-a57f-4f5e-8212-34e479f0ba74",
+    "relation": "owner",
+    "object": "sensor:f90e65a7-095d-4e9d-bce5-44150b59c442"
+  },
+  {
+    "user": "organization:1cf6b16a-7514-4569-9e39-050641ee2870",
+    "relation": "owner",
+    "object": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce"
+  },
+  {
+    "user": "organization:1cf6b16a-7514-4569-9e39-050641ee2870",
+    "relation": "owner",
+    "object": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469"
+  },
+  {
+    "user": "organization:1cf6b16a-7514-4569-9e39-050641ee2870",
+    "relation": "owner",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "organization:1cf6b16a-7514-4569-9e39-050641ee2870",
+    "relation": "owner",
+    "object": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d"
+  },
+  {
+    "user": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63",
+    "relation": "owner",
+    "object": "sensor:f672dbc2-eaf0-444d-8b31-f52bce955b9d"
+  },
+  {
+    "user": "organization:0d272be0-0bc7-4d1e-8212-354f95ef4b63",
+    "relation": "owner",
+    "object": "sensor:fe588f82-435a-4e5f-b450-40ce9938377a"
+  },
+  {
+    "user": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7",
+    "relation": "owner",
+    "object": "sensor:88592bcc-66e8-447b-8b71-f40baf62eda8"
+  },
+  {
+    "user": "organization:bf30bddc-0ec8-4aa0-aa24-1bb535e323e7",
+    "relation": "owner",
+    "object": "sensor:59b6d423-9309-494c-8e96-bf6cece0c095"
+  },
+  {
+    "user": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b",
+    "relation": "owner",
+    "object": "sensor:3e2cfaac-8b66-4278-94e9-42a4efa2e2e9"
+  },
+  {
+    "user": "organization:6d20bb62-6fd3-41a9-bd76-5f32dddcc97b",
+    "relation": "owner",
+    "object": "sensor:b21ecb67-e3c7-4f40-9b55-4eeae0ba17bf"
+  },
+  {
+    "user": "organization:1885211c-b844-420b-9741-686711839f56",
+    "relation": "owner",
+    "object": "sensor:d6804190-0fe5-4179-a7ae-c07363951315"
+  },
+  {
+    "user": "organization:9411f6af-f092-4e38-acb3-421a433114b5",
+    "relation": "owner",
+    "object": "sensor:7edcd509-e2c2-4d2b-b298-09eaf935167c"
+  },
+  {
+    "user": "organization:7ce32214-ca0e-4ec0-8777-8cc5e010dbc7",
+    "relation": "owner",
+    "object": "sensor:3d0dc94b-3040-4214-bdd9-5779752b148b"
+  },
+  {
+    "user": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329",
+    "relation": "owner",
+    "object": "sensor:aa8fbabb-1a3b-45af-8b95-a356c690a42e"
+  },
+  {
+    "user": "organization:0d56fc55-3c37-465a-a3cc-c87b984d9329",
+    "relation": "owner",
+    "object": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab"
+  },
+  {
+    "user": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff",
+    "relation": "owner",
+    "object": "sensor:73b46d01-2f0c-4a1f-96d0-6efdd5f73b53"
+  },
+  {
+    "user": "organization:1dfb8318-0fe4-4830-8b21-cca3f86dfcff",
+    "relation": "owner",
+    "object": "sensor:d05dc51b-4424-4b0c-8ef0-a589e7874557"
+  },
+  {
+    "user": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca",
+    "relation": "owner",
+    "object": "sensor:9a219497-a804-4ffc-a500-2f463767a314"
+  },
+  {
+    "user": "organization:e9af8900-a0c5-4d5b-a39b-3b4e01e8adca",
+    "relation": "owner",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4",
+    "relation": "owner",
+    "object": "sensor:160b5003-6df0-468e-8be4-d7cf507f0305"
+  },
+  {
+    "user": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4",
+    "relation": "owner",
+    "object": "sensor:4af78555-b686-4aef-84c4-80fe9cbf8601"
+  },
+  {
+    "user": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4",
+    "relation": "owner",
+    "object": "sensor:faf38977-c883-4faa-9a14-f5877463dca2"
+  },
+  {
+    "user": "organization:15703591-9ddc-46f7-b064-26fb545f0fc4",
+    "relation": "owner",
+    "object": "sensor:1b7a072a-8001-44df-a9b4-26519476c70d"
+  },
+  {
+    "user": "organization:1f26a3e7-9a65-4076-bde7-af9503a419bb",
+    "relation": "owner",
+    "object": "sensor:50a22996-5ace-4cb0-9bc2-1e15b6cab9ff"
+  },
+  {
+    "user": "organization:3f2e5711-98a8-4070-80c0-e248e5f04abc",
+    "relation": "owner",
+    "object": "sensor:0a2d2727-4bd9-4394-9a90-904047ed8bbe"
+  },
+  {
+    "user": "organization:213bdfd2-bf43-4a38-a28b-9ced1a15009e",
+    "relation": "owner",
+    "object": "sensor:04c7fbb7-8b39-4ecc-bc53-f0d0901217ef"
+  },
+  {
+    "user": "organization:53027767-53ee-403b-b69e-c5a2e552d8c1",
+    "relation": "owner",
+    "object": "sensor:31970904-5eb6-4109-b6a6-fdfb3d31159a"
+  },
+  {
+    "user": "organization:f700ea54-1eba-41ad-9429-3b41c372c857",
+    "relation": "owner",
+    "object": "sensor:73548d13-3d34-452b-8d0f-5015a83b06ef"
+  },
+  {
+    "user": "organization:f700ea54-1eba-41ad-9429-3b41c372c857",
+    "relation": "owner",
+    "object": "sensor:e673d911-fefb-4bac-81b2-650f2e9c110b"
+  },
+  {
+    "user": "organization:5ada24b6-8638-4d46-a822-912ed5acd725",
+    "relation": "owner",
+    "object": "sensor:37ef9295-91c1-4cec-9c0d-65c4846a2b98"
+  },
+  {
+    "user": "organization:5ada24b6-8638-4d46-a822-912ed5acd725",
+    "relation": "owner",
+    "object": "sensor:811f3e1d-658e-465e-9c83-f52f1323dfce"
+  },
+  {
+    "user": "organization:e238f263-552f-4c43-a38c-5b6c83e0521c",
+    "relation": "owner",
+    "object": "sensor:ffccece9-b77b-4653-af0e-a71dcd995475"
+  },
+  {
+    "user": "organization:7146b196-7eae-4967-bf1c-a8edeab37610",
+    "relation": "owner",
+    "object": "sensor:0a4590b9-b869-49d5-a77d-cd751491792f"
+  },
+  {
+    "user": "organization:7620bcb9-ee70-4c64-8d71-f5c996009e2d",
+    "relation": "owner",
+    "object": "sensor:156b1fc1-ee0e-413c-a376-2143b103ec20"
+  },
+  {
+    "user": "organization:e6fa5f77-b81a-4019-bbcb-ef018a6349c5",
+    "relation": "owner",
+    "object": "sensor:733e3aa2-147c-448d-9a8d-bdfefc999c47"
+  },
+  {
+    "user": "organization:4f726671-4c70-482b-8e6d-42a2b7e23e10",
+    "relation": "owner",
+    "object": "sensor:fb64738c-b3c4-4530-bd20-218a5c9055ef"
+  },
+  {
+    "user": "organization:dae3249e-5210-412f-af85-e6c8f55bf99b",
+    "relation": "owner",
+    "object": "sensor:1caed7cb-3136-4dd8-86d6-8f43a9e4fb39"
+  },
+  {
+    "user": "organization:a4d76fc7-a693-4caf-8707-d389cce0b20d",
+    "relation": "owner",
+    "object": "sensor:60dc2bef-aefe-44d1-ba38-608d038ca2ad"
+  },
+  {
+    "user": "organization:50429c66-c96e-479a-a0fd-8bf81e63ab7e",
+    "relation": "owner",
+    "object": "sensor:6af7f01a-7e28-48d3-bf4d-808cd0d89d73"
+  },
+  {
+    "user": "organization:054f5fc3-804a-4bb1-8a25-1e5ce506ae9a",
+    "relation": "owner",
+    "object": "sensor:277097c9-f7f4-4378-b91d-51496cfdd3c6"
+  },
+  {
+    "user": "organization:7d5644dc-afe0-491c-bb5e-55da559aae81",
+    "relation": "owner",
+    "object": "sensor:5df2795d-9630-4ae8-93a4-a78da7949c8d"
+  },
+  {
+    "user": "organization:47baeb81-62ba-44ce-91bc-d7d43517871a",
+    "relation": "owner",
+    "object": "sensor:5f4ea18c-7216-4209-8c56-62ba56898c9e"
+  },
+  {
+    "user": "organization:34b59e45-849f-4de3-b323-617d0b8ed8c5",
+    "relation": "owner",
+    "object": "sensor:75487540-0657-4c3f-87d7-ed186e198fa5"
+  },
+  {
+    "user": "organization:a226994a-9583-4d73-bbbf-74bda1689cdc",
+    "relation": "owner",
+    "object": "sensor:1e693aaa-bef5-42ae-9617-3906445b4d3b"
+  },
+  {
+    "user": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7",
+    "relation": "owner",
+    "object": "sensor:4203631e-a7ee-4ac0-8227-0e27898d6cc9"
+  },
+  {
+    "user": "organization:ac88aed2-825e-48d5-86b0-20fdd052feb7",
+    "relation": "owner",
+    "object": "sensor:2cd597f5-5a74-476b-a3bd-09e6ef680ad3"
+  },
+  {
+    "user": "organization:818da212-1152-4bf8-bb67-34872e7a0b04",
+    "relation": "owner",
+    "object": "sensor:4ac25d6f-aab8-458c-8cee-cc051f30bee9"
+  },
+  {
+    "user": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259",
+    "relation": "owner",
+    "object": "sensor:f64b3852-5146-45d0-8746-f3aba1962c26"
+  },
+  {
+    "user": "organization:ad4dd7d2-785a-4be5-80ca-23d0b5179259",
+    "relation": "owner",
+    "object": "sensor:c3c72ada-0b81-46a6-870a-55f868be7877"
+  },
+  {
+    "user": "organization:afaf7569-78f3-4b73-b2e3-836213dcb230",
+    "relation": "owner",
+    "object": "sensor:44fb8375-a859-452b-b75d-7b117a49c436"
+  },
+  {
+    "user": "organization:7305b8cd-ce3d-4df4-8e04-27b3e1b039d6",
+    "relation": "owner",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "organization:5a4405d3-c259-402a-82f9-c7dddd10b6b2",
+    "relation": "owner",
+    "object": "sensor:ef652508-a7af-43fd-a943-620cd3dcb7d6"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:2a438f7f-4e95-44c8-88bb-688411a0266d"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:ef3eed76-a2d9-44be-8eb7-ab114cd32e83"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:28456265-c1c1-4712-b939-0bd20d23d7d9"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:c991382f-8018-4ec0-88a8-c300ded7904b"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:391009ab-39f3-4cd5-a585-cfa7dfa3ddb7"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:085c4f39-ccbc-4c66-bdee-9f970430f32d"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:114be264-b6f3-46ec-9880-145146c6a4ca"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:550c36ff-0116-4651-9772-95ffa23144fe"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:198f89dd-5a68-4dd9-9287-9d9c82b80e78"
+  },
+  {
+    "user": "organization:474ab8a8-e247-4dcd-b6a6-2e1ed5b54a2a",
+    "relation": "owner",
+    "object": "sensor:a2755d1c-ef6e-40c4-ac15-6b357400b63c"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:f799808f-c2a9-4aa0-b09e-121b19777f46"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:4437d513-a036-46bc-b34f-f8f870492b6a"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:6e72ee31-201b-4ec8-9e46-09aafaf47af1"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:90ef90a2-bf9a-4612-9044-80cf1d5471e5"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:3da7edb3-2534-4a7d-a15e-512bf9d09b88"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:78db2d60-4982-40c0-ace6-e3794d24a3ed"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:1262a488-bc0a-4796-8678-11ff0b007040"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:5273a2dc-aefe-4b17-a46a-b5ad2b23ba82"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:28fdd02c-7ad3-4561-a92f-f50df249d80d"
+  },
+  {
+    "user": "organization:781eb476-e745-4c38-aece-913bbb8f50cd",
+    "relation": "owner",
+    "object": "sensor:0d85c442-d40b-4c01-8ff9-10dab747944b"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "can_edit",
+    "object": "sensor:c74580e2-eba6-44c6-bf5e-95546148e673"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "can_report",
+    "object": "sensor:d17dc84d-c2d6-41b5-b48d-e35bd71d12af"
+  },
+  {
+    "user": "user:10ad9927-f82a-4364-a3b2-b06568ba0e02",
+    "relation": "can_read",
+    "object": "sensor:6d983c95-94f1-4a53-869f-da4f0aa6c571"
+  },
+  {
+    "user": "user:4a348e44-552f-4b1e-bc1c-748bf277646d",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:3fbf1766-33f7-45aa-81cd-acc91d67af82",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:3fbf1766-33f7-45aa-81cd-acc91d67af82",
+    "relation": "can_read",
+    "object": "sensor:f672dbc2-eaf0-444d-8b31-f52bce955b9d"
+  },
+  {
+    "user": "user:3fbf1766-33f7-45aa-81cd-acc91d67af82",
+    "relation": "can_read",
+    "object": "sensor:59b6d423-9309-494c-8e96-bf6cece0c095"
+  },
+  {
+    "user": "user:b66a8748-2009-498a-a546-1c180d390a92",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:df8b74fb-dc24-4b38-86f1-715dd34e0779",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:0cc3d328-291b-424d-9b02-4b388783de84",
+    "relation": "can_read",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "user:0cc3d328-291b-424d-9b02-4b388783de84",
+    "relation": "can_read",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "user:0cc3d328-291b-424d-9b02-4b388783de84",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:9d038ba6-98be-4666-b0c4-fea11653fd38",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20",
+    "relation": "can_read",
+    "object": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f"
+  },
+  {
+    "user": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20",
+    "relation": "can_read",
+    "object": "sensor:1f22608e-2cb6-49aa-8fc3-ff38fc2a1f84"
+  },
+  {
+    "user": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20",
+    "relation": "can_read",
+    "object": "sensor:f90e65a7-095d-4e9d-bce5-44150b59c442"
+  },
+  {
+    "user": "user:d1a1413c-c87f-4833-bcc3-fc1a77a71d20",
+    "relation": "can_read",
+    "object": "sensor:f20d09c6-7353-4720-9d85-0e5bf63271fd"
+  },
+  {
+    "user": "user:d8cf66ea-fb5f-42c1-a7f4-66c88a9fe4e1",
+    "relation": "can_read",
+    "object": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f"
+  },
+  {
+    "user": "user:5c3da5ff-50b7-4e8d-ae8b-9dcb465cde97",
+    "relation": "can_read",
+    "object": "sensor:77d1a2a1-3fa9-46be-982e-c2add66e6b5a"
+  },
+  {
+    "user": "user:5c3da5ff-50b7-4e8d-ae8b-9dcb465cde97",
+    "relation": "can_read",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "user:5c3da5ff-50b7-4e8d-ae8b-9dcb465cde97",
+    "relation": "can_read",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "user:6a846d0a-a365-4f27-a205-366ede940998",
+    "relation": "can_read",
+    "object": "sensor:77d1a2a1-3fa9-46be-982e-c2add66e6b5a"
+  },
+  {
+    "user": "user:6a846d0a-a365-4f27-a205-366ede940998",
+    "relation": "can_read",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "user:6a846d0a-a365-4f27-a205-366ede940998",
+    "relation": "can_read",
+    "object": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469"
+  },
+  {
+    "user": "user:6a846d0a-a365-4f27-a205-366ede940998",
+    "relation": "can_read",
+    "object": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d"
+  },
+  {
+    "user": "user:6a846d0a-a365-4f27-a205-366ede940998",
+    "relation": "can_read",
+    "object": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce"
+  },
+  {
+    "user": "user:195b6665-865d-44c7-b3d0-d269913c11fa",
+    "relation": "can_read",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "user:195b6665-865d-44c7-b3d0-d269913c11fa",
+    "relation": "can_read",
+    "object": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469"
+  },
+  {
+    "user": "user:195b6665-865d-44c7-b3d0-d269913c11fa",
+    "relation": "can_read",
+    "object": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d"
+  },
+  {
+    "user": "user:195b6665-865d-44c7-b3d0-d269913c11fa",
+    "relation": "can_read",
+    "object": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce"
+  },
+  {
+    "user": "user:7d51f1e1-d3f7-4e1d-85ae-8115d7fad2da",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82",
+    "relation": "can_read",
+    "object": "sensor:76f2875e-aa12-443b-b894-9a5187973670"
+  },
+  {
+    "user": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82",
+    "relation": "can_read",
+    "object": "sensor:8bbd9234-3c97-4b2a-8784-2445c03139d2"
+  },
+  {
+    "user": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:52cd56db-0ffe-4303-b219-fd82da2b8f82",
+    "relation": "can_read",
+    "object": "sensor:9a361c49-ad3f-4397-a63e-1dbd215a4f28"
+  },
+  {
+    "user": "user:f33c51a8-0e13-4a62-a3bb-36146b30896e",
+    "relation": "can_read",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "user:f33c51a8-0e13-4a62-a3bb-36146b30896e",
+    "relation": "can_read",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "user:1ddb0ab3-7a11-4ece-a8d6-b762541e2143",
+    "relation": "can_read",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "user:09cf445a-f96a-4eaf-bea2-683359ed3bdc",
+    "relation": "can_read",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:73b46d01-2f0c-4a1f-96d0-6efdd5f73b53"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:d05dc51b-4424-4b0c-8ef0-a589e7874557"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:472ab713-1bef-439f-b9dc-bc2a79e45bf1"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:d6804190-0fe5-4179-a7ae-c07363951315"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:7edcd509-e2c2-4d2b-b298-09eaf935167c"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:aa8fbabb-1a3b-45af-8b95-a356c690a42e"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:3e2cfaac-8b66-4278-94e9-42a4efa2e2e9"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:b21ecb67-e3c7-4f40-9b55-4eeae0ba17bf"
+  },
+  {
+    "user": "user:ab0e51c4-8307-48aa-b52e-7cffa3eb0e31",
+    "relation": "can_read",
+    "object": "sensor:3d0dc94b-3040-4214-bdd9-5779752b148b"
+  },
+  {
+    "user": "user:9b59353b-295a-4eb7-9c8a-f4805162cc3c",
+    "relation": "can_read",
+    "object": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab"
+  },
+  {
+    "user": "user:9b59353b-295a-4eb7-9c8a-f4805162cc3c",
+    "relation": "can_read",
+    "object": "sensor:aa8fbabb-1a3b-45af-8b95-a356c690a42e"
+  },
+  {
+    "user": "user:1ddb0ab3-7a11-4ece-a8d6-b762541e2143",
+    "relation": "can_read",
+    "object": "sensor:9a219497-a804-4ffc-a500-2f463767a314"
+  },
+  {
+    "user": "user:d514af50-c525-468b-bf7b-53824b544720",
+    "relation": "can_read",
+    "object": "sensor:75487540-0657-4c3f-87d7-ed186e198fa5"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:0a4590b9-b869-49d5-a77d-cd751491792f"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:156b1fc1-ee0e-413c-a376-2143b103ec20"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:31970904-5eb6-4109-b6a6-fdfb3d31159a"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:5f4ea18c-7216-4209-8c56-62ba56898c9e"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:733e3aa2-147c-448d-9a8d-bdfefc999c47"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:f64b3852-5146-45d0-8746-f3aba1962c26"
+  },
+  {
+    "user": "user:0caaba80-7508-4fd9-adeb-fa5cfadaebdf",
+    "relation": "can_report",
+    "object": "sensor:fb64738c-b3c4-4530-bd20-218a5c9055ef"
+  },
+  {
+    "user": "user:11364c55-54e1-4724-94e4-7a276e43f68f",
+    "relation": "can_report",
+    "object": "sensor:3cf49eac-0e7d-4cde-af09-0378c891eb1f"
+  },
+  {
+    "user": "user:143015a9-3b1e-4c32-96cb-eeadec489a32",
+    "relation": "can_edit",
+    "object": "sensor:277097c9-f7f4-4378-b91d-51496cfdd3c6"
+  },
+  {
+    "user": "user:162c3e18-b207-4352-b275-5e318c1a149a",
+    "relation": "can_edit",
+    "object": "sensor:472ab713-1bef-439f-b9dc-bc2a79e45bf1"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "can_edit",
+    "object": "sensor:160b5003-6df0-468e-8be4-d7cf507f0305"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "can_edit",
+    "object": "sensor:1b7a072a-8001-44df-a9b4-26519476c70d"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "can_edit",
+    "object": "sensor:44fb8375-a859-452b-b75d-7b117a49c436"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "can_edit",
+    "object": "sensor:4af78555-b686-4aef-84c4-80fe9cbf8601"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "can_edit",
+    "object": "sensor:6af7f01a-7e28-48d3-bf4d-808cd0d89d73"
+  },
+  {
+    "user": "user:1816f8ee-d02b-4132-99c7-264e7047e77f",
+    "relation": "can_edit",
+    "object": "sensor:faf38977-c883-4faa-9a14-f5877463dca2"
+  },
+  {
+    "user": "user:19111b0f-82dd-45fe-8d9b-6d60cb3cb377",
+    "relation": "can_edit",
+    "object": "sensor:ef652508-a7af-43fd-a943-620cd3dcb7d6"
+  },
+  {
+    "user": "user:1a76d2b9-2e03-4f2c-aad9-21bb2ed57e82",
+    "relation": "can_edit",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:288d2b98-e650-46be-99ce-6087129f03e8",
+    "relation": "can_edit",
+    "object": "sensor:76f2875e-aa12-443b-b894-9a5187973670"
+  },
+  {
+    "user": "user:288d2b98-e650-46be-99ce-6087129f03e8",
+    "relation": "can_edit",
+    "object": "sensor:8bbd9234-3c97-4b2a-8784-2445c03139d2"
+  },
+  {
+    "user": "user:2bea844b-b69d-4d8b-82b7-7ed38a330823",
+    "relation": "can_edit",
+    "object": "sensor:733e3aa2-147c-448d-9a8d-bdfefc999c47"
+  },
+  {
+    "user": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0",
+    "relation": "can_edit",
+    "object": "sensor:160b5003-6df0-468e-8be4-d7cf507f0305"
+  },
+  {
+    "user": "user:33bb07cd-8f7c-41af-a7ff-3875960212f0",
+    "relation": "can_edit",
+    "object": "sensor:4af78555-b686-4aef-84c4-80fe9cbf8601"
+  },
+  {
+    "user": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c",
+    "relation": "can_edit",
+    "object": "sensor:3cf49eac-0e7d-4cde-af09-0378c891eb1e"
+  },
+  {
+    "user": "user:4017fbe4-7e4c-4672-9a87-0f149975d37c",
+    "relation": "can_edit",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "user:4937c32d-fe3d-4e07-9d40-fbcb41adcf6c",
+    "relation": "can_edit",
+    "object": "sensor:1e693aaa-bef5-42ae-9617-3906445b4d3b"
+  },
+  {
+    "user": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1",
+    "relation": "can_edit",
+    "object": "sensor:f672dbc2-eaf0-444d-8b31-f52bce955b9d"
+  },
+  {
+    "user": "user:4b2f8151-4f0d-46da-bc5d-4881849817f1",
+    "relation": "can_edit",
+    "object": "sensor:fe588f82-435a-4e5f-b450-40ce9938377a"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:4203631e-a7ee-4ac0-8227-0e27898d6cc9"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:472ab713-1bef-439f-b9dc-bc2a79e45bf1"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:73548d13-3d34-452b-8d0f-5015a83b06ef"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:73b46d01-2f0c-4a1f-96d0-6efdd5f73b53"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:7edcd509-e2c2-4d2b-b298-09eaf935167c"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:d6804190-0fe5-4179-a7ae-c07363951315"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:e673d911-fefb-4bac-81b2-650f2e9c110b"
+  },
+  {
+    "user": "user:4cbfe709-ff96-42cd-8661-0d3f50b9ced2",
+    "relation": "can_report",
+    "object": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab"
+  },
+  {
+    "user": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8",
+    "relation": "can_edit",
+    "object": "sensor:37ef9295-91c1-4cec-9c0d-65c4846a2b98"
+  },
+  {
+    "user": "user:513d7c03-c13a-4fc0-b439-c5b29a3129c8",
+    "relation": "can_edit",
+    "object": "sensor:811f3e1d-658e-465e-9c83-f52f1323dfce"
+  },
+  {
+    "user": "user:596994bb-3e60-4784-8bcc-51a46db3c362",
+    "relation": "can_edit",
+    "object": "sensor:d6804190-0fe5-4179-a7ae-c07363951315"
+  },
+  {
+    "user": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6",
+    "relation": "can_edit",
+    "object": "sensor:1b7a072a-8001-44df-a9b4-26519476c70d"
+  },
+  {
+    "user": "user:5b68a79f-111d-4ebf-8dec-27a38b0893e6",
+    "relation": "can_edit",
+    "object": "sensor:faf38977-c883-4faa-9a14-f5877463dca2"
+  },
+  {
+    "user": "user:5e730186-705e-4ad0-beb6-1bf7c1cc5660",
+    "relation": "can_edit",
+    "object": "sensor:6af7f01a-7e28-48d3-bf4d-808cd0d89d73"
+  },
+  {
+    "user": "user:68e56b6c-5e59-4e4a-8916-2ba12a60035e",
+    "relation": "can_edit",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c",
+    "relation": "can_edit",
+    "object": "sensor:c3c72ada-0b81-46a6-870a-55f868be7877"
+  },
+  {
+    "user": "user:6ac85c7f-6116-4f08-8bd3-941cb338753c",
+    "relation": "can_edit",
+    "object": "sensor:f64b3852-5146-45d0-8746-f3aba1962c26"
+  },
+  {
+    "user": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e",
+    "relation": "can_edit",
+    "object": "sensor:73548d13-3d34-452b-8d0f-5015a83b06ef"
+  },
+  {
+    "user": "user:6aeb1a36-c48d-4ad5-b46e-3fe81275383e",
+    "relation": "can_edit",
+    "object": "sensor:e673d911-fefb-4bac-81b2-650f2e9c110b"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:04c7fbb7-8b39-4ecc-bc53-f0d0901217ef"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:0a2d2727-4bd9-4394-9a90-904047ed8bbe"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:4ac25d6f-aab8-458c-8cee-cc051f30bee9"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:5df2795d-9630-4ae8-93a4-a78da7949c8d"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:75487540-0657-4c3f-87d7-ed186e198fa5"
+  },
+  {
+    "user": "user:6de0e199-f313-4af1-a617-eb44ef765c6a",
+    "relation": "can_report",
+    "object": "sensor:f672dbc2-eaf0-444d-8b31-f52bce955b9d"
+  },
+  {
+    "user": "user:6ee83cbf-5be3-4d71-8374-a01152b5b4f2",
+    "relation": "can_edit",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:72ec3d92-1256-4016-82b1-b2b2e8da6d57",
+    "relation": "can_edit",
+    "object": "sensor:5f4ea18c-7216-4209-8c56-62ba56898c9e"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "can_edit",
+    "object": "sensor:1464a9de-f9e9-4148-b27b-2c7ebed2353d"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "can_edit",
+    "object": "sensor:3f59a20c-9b90-454f-a792-75149dbc0469"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "can_edit",
+    "object": "sensor:5affc42a-3c1e-410e-ba4d-0afc0cb2b2ce"
+  },
+  {
+    "user": "user:73ca81d1-5dd8-44d2-b173-23b64e87a23f",
+    "relation": "can_edit",
+    "object": "sensor:dc6fbb9c-06c4-4b82-93f3-031ac5c8998d"
+  },
+  {
+    "user": "user:74eec133-23b1-464f-aa70-7fcfb63b0654",
+    "relation": "can_edit",
+    "object": "sensor:2cd597f5-5a74-476b-a3bd-09e6ef680ad3"
+  },
+  {
+    "user": "user:74eec133-23b1-464f-aa70-7fcfb63b0654",
+    "relation": "can_edit",
+    "object": "sensor:4203631e-a7ee-4ac0-8227-0e27898d6cc9"
+  },
+  {
+    "user": "user:752232e7-5f22-4434-b38f-65bc40c60872",
+    "relation": "can_edit",
+    "object": "sensor:156b1fc1-ee0e-413c-a376-2143b103ec20"
+  },
+  {
+    "user": "user:76c6f931-4318-4c23-ba43-4ba7248678ac",
+    "relation": "can_edit",
+    "object": "sensor:50a22996-5ace-4cb0-9bc2-1e15b6cab9ff"
+  },
+  {
+    "user": "user:7cdaf15b-4e76-4ce9-97b7-5c864e043460",
+    "relation": "can_edit",
+    "object": "sensor:31970904-5eb6-4109-b6a6-fdfb3d31159a"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "can_report",
+    "object": "sensor:1caed7cb-3136-4dd8-86d6-8f43a9e4fb39"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "can_report",
+    "object": "sensor:1f22608e-2cb6-49aa-8fc3-ff38fc2a1f84"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "can_report",
+    "object": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "can_report",
+    "object": "sensor:37ef9295-91c1-4cec-9c0d-65c4846a2b98"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "can_report",
+    "object": "sensor:60dc2bef-aefe-44d1-ba38-608d038ca2ad"
+  },
+  {
+    "user": "user:81bea9f6-b71f-4fb2-89d4-c6a9c8a4dfa0",
+    "relation": "can_report",
+    "object": "sensor:ffccece9-b77b-4653-af0e-a71dcd995475"
+  },
+  {
+    "user": "user:87bb7d3e-ca96-4192-8f73-9a42cf77d786",
+    "relation": "can_edit",
+    "object": "sensor:ffccece9-b77b-4653-af0e-a71dcd995475"
+  },
+  {
+    "user": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73",
+    "relation": "can_edit",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:8c850fb0-1903-4802-9e2c-3bd48a78ce73",
+    "relation": "can_edit",
+    "object": "sensor:7edcd509-e2c2-4d2b-b298-09eaf935167c"
+  },
+  {
+    "user": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d",
+    "relation": "can_edit",
+    "object": "sensor:1f22608e-2cb6-49aa-8fc3-ff38fc2a1f84"
+  },
+  {
+    "user": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d",
+    "relation": "can_edit",
+    "object": "sensor:f20d09c6-7353-4720-9d85-0e5bf63271fd"
+  },
+  {
+    "user": "user:8f5897b3-f1a7-4ee1-87eb-b7811f7ba64d",
+    "relation": "can_edit",
+    "object": "sensor:f90e65a7-095d-4e9d-bce5-44150b59c442"
+  },
+  {
+    "user": "user:91c18e87-a95d-43d1-b25e-5c2626243cec",
+    "relation": "can_edit",
+    "object": "sensor:5df2795d-9630-4ae8-93a4-a78da7949c8d"
+  },
+  {
+    "user": "user:9b19578b-2c90-466d-a555-f8035d0b9ace",
+    "relation": "can_edit",
+    "object": "sensor:44fb8375-a859-452b-b75d-7b117a49c436"
+  },
+  {
+    "user": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5",
+    "relation": "can_edit",
+    "object": "sensor:43344490-14aa-4956-b5ac-173797be0013"
+  },
+  {
+    "user": "user:a529b5c1-acde-477a-ac3e-e6489c6612f5",
+    "relation": "can_edit",
+    "object": "sensor:9a219497-a804-4ffc-a500-2f463767a314"
+  },
+  {
+    "user": "user:a59592c2-e9f5-4b24-9c03-eeadd9e21c74",
+    "relation": "can_edit",
+    "object": "sensor:fb64738c-b3c4-4530-bd20-218a5c9055ef"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "can_report",
+    "object": "sensor:1e693aaa-bef5-42ae-9617-3906445b4d3b"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "can_report",
+    "object": "sensor:277097c9-f7f4-4378-b91d-51496cfdd3c6"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "can_report",
+    "object": "sensor:4af78555-b686-4aef-84c4-80fe9cbf8601"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "can_report",
+    "object": "sensor:59b6d423-9309-494c-8e96-bf6cece0c095"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "can_report",
+    "object": "sensor:b21ecb67-e3c7-4f40-9b55-4eeae0ba17bf"
+  },
+  {
+    "user": "user:aced3cee-890e-4174-a584-d362e892385f",
+    "relation": "can_report",
+    "object": "sensor:ef652508-a7af-43fd-a943-620cd3dcb7d6"
+  },
+  {
+    "user": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0",
+    "relation": "can_edit",
+    "object": "sensor:3a109bbf-729a-4d3e-a433-f7575bc3ef40"
+  },
+  {
+    "user": "user:b6ae0085-6db3-44c2-a4e7-be2dca4cefb0",
+    "relation": "can_edit",
+    "object": "sensor:70bddd76-6ff7-40dc-a254-746a0878de58"
+  },
+  {
+    "user": "user:b85de75d-4e53-4c43-bcb6-8963bc5a3bb9",
+    "relation": "can_edit",
+    "object": "sensor:77d1a2a1-3fa9-46be-982e-c2add66e6b5a"
+  },
+  {
+    "user": "user:c4010905-a660-4632-86d1-1dab80fae419",
+    "relation": "can_edit",
+    "object": "sensor:75487540-0657-4c3f-87d7-ed186e198fa5"
+  },
+  {
+    "user": "user:c5a99188-c77e-45c7-94a7-736b3574e4e6",
+    "relation": "can_edit",
+    "object": "sensor:3d0dc94b-3040-4214-bdd9-5779752b148b"
+  },
+  {
+    "user": "user:cf12ba55-0c4a-47ea-a23f-eceb95ee6d0e",
+    "relation": "can_edit",
+    "object": "sensor:04c7fbb7-8b39-4ecc-bc53-f0d0901217ef"
+  },
+  {
+    "user": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201",
+    "relation": "can_edit",
+    "object": "sensor:73b46d01-2f0c-4a1f-96d0-6efdd5f73b53"
+  },
+  {
+    "user": "user:d0baf3c7-82ab-44ab-9e21-1f5ce755f201",
+    "relation": "can_edit",
+    "object": "sensor:d05dc51b-4424-4b0c-8ef0-a589e7874557"
+  },
+  {
+    "user": "user:d29024af-7605-47a7-bf56-246bd6257cf7",
+    "relation": "can_edit",
+    "object": "sensor:0a2d2727-4bd9-4394-9a90-904047ed8bbe"
+  },
+  {
+    "user": "user:d97e2d22-c37f-4cd1-8a80-0c6297d473e3",
+    "relation": "can_report",
+    "object": "sensor:9a361c49-ad3f-4397-a63e-1dbd215a4f28"
+  },
+  {
+    "user": "user:dd061000-f973-4a82-afec-7470d6c8527f",
+    "relation": "can_edit",
+    "object": "sensor:4ac25d6f-aab8-458c-8cee-cc051f30bee9"
+  },
+  {
+    "user": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16",
+    "relation": "can_edit",
+    "object": "sensor:aa8fbabb-1a3b-45af-8b95-a356c690a42e"
+  },
+  {
+    "user": "user:e1098df9-b6c1-4ffd-aa4b-a1f8b3ad9b16",
+    "relation": "can_edit",
+    "object": "sensor:ffa1eed0-08fd-495d-88cb-246c73693bab"
+  },
+  {
+    "user": "user:e5e4e4d1-73f4-4893-9dda-9487894321da",
+    "relation": "can_edit",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:e6069e3f-3a87-4937-b154-4658edf39fc7",
+    "relation": "can_edit",
+    "object": "sensor:59b6d423-9309-494c-8e96-bf6cece0c095"
+  },
+  {
+    "user": "user:e6069e3f-3a87-4937-b154-4658edf39fc7",
+    "relation": "can_edit",
+    "object": "sensor:88592bcc-66e8-447b-8b71-f40baf62eda8"
+  },
+  {
+    "user": "user:eb85429a-e5e5-418d-8212-61395e017bc7",
+    "relation": "can_edit",
+    "object": "sensor:3535c742-8e66-49d1-bfa9-6ba4a94a0f2f"
+  },
+  {
+    "user": "user:eba182c9-470a-4976-829e-c9f929312488",
+    "relation": "can_edit",
+    "object": "sensor:3e2cfaac-8b66-4278-94e9-42a4efa2e2e9"
+  },
+  {
+    "user": "user:eba182c9-470a-4976-829e-c9f929312488",
+    "relation": "can_edit",
+    "object": "sensor:b21ecb67-e3c7-4f40-9b55-4eeae0ba17bf"
+  },
+  {
+    "user": "user:ee7c41f3-97d9-4175-aed0-00180e33320f",
+    "relation": "can_edit",
+    "object": "sensor:4017fbe4-7e4c-4672-9a87-0f149975d37d"
+  },
+  {
+    "user": "user:f017d5b1-4cc9-4bf3-83f5-ebc5df503896",
+    "relation": "can_edit",
+    "object": "sensor:0a4590b9-b869-49d5-a77d-cd751491792f"
+  },
+  {
+    "user": "user:f2d2fabf-9950-4b2a-9cfc-6b0a4f5fc67f",
+    "relation": "can_edit",
+    "object": "sensor:60dc2bef-aefe-44d1-ba38-608d038ca2ad"
+  },
+  {
+    "user": "user:f4de6c93-9f60-48d2-b564-6c41f7dd2653",
+    "relation": "can_edit",
+    "object": "sensor:1caed7cb-3136-4dd8-86d6-8f43a9e4fb39"
+  }
+]
