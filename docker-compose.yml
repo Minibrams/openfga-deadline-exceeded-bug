@@ -23,7 +23,8 @@ services:
     depends_on:
       openfga-migrate:
         condition: service_completed_successfully
-    image: openfga/openfga:v1.8.6
+    # image: openfga/openfga:v1.8.6  # No DEADLINE_EXCEEDED here
+    image: openfga/openfga:v1.11 # DEADLINE_EXCEEDED here
     container_name: openfga
     restart: unless-stopped
     expose:
@@ -57,7 +58,8 @@ services:
     depends_on:
       openfga-db:
         condition: service_healthy
-    image: openfga/openfga:v1.8.6
+    # image: openfga/openfga:v1.8.6
+    image: openfga/openfga:v1.11
     container_name: openfga-migrate
     command: ["migrate"]
     environment:
