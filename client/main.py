@@ -9,20 +9,27 @@ async def main():
     await sync_fga_database.main()
     await client.load_store_and_model()
 
-    n_parallel_requests = 100
-
     with open("tuples.json", "r") as f:
         tuples = json.load(f)
 
     users = [tuple['user'] for tuple in tuples if tuple["relation"] == "myself"]
 
+    async def make_queries(user):
+        await client.check_tuple(
+            user=user,
+            relation="myself",
+            object=user,
+        )
+
+        await client.list_objects(
+            user=user,
+            relation="can_read",
+            object_type="sensor",
+        )
+
     async with asyncio.TaskGroup() as tg:
         for user in users:
-            tg.create_task(client.list_objects(
-                user=user,
-                relation="can_read",
-                object_type="sensor",
-            ))
+            tg.create_task(make_queries(user))
     
 if __name__ == "__main__":
     asyncio.run(main())
