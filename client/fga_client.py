@@ -25,6 +25,7 @@ def batcherize[T](lst: list[T], n: int):
 
 
 def dedupe(lst: list[dict[str, str]]) -> list[dict[str, str]]:
+    return lst
     seen = set()
     deduped_list = []
     for item in lst:
@@ -55,7 +56,6 @@ class FGAClient:
         self.http_client = http_client
         self.store_id = _store_id
         self.model_id = _model_id
-        print(f'Using {http_client.base_url}')
 
     def _get_store_id(self, store_id: str | None = None) -> str:
         store_id = store_id or self.store_id
