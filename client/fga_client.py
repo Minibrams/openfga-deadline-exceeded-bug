@@ -25,7 +25,6 @@ def batcherize[T](lst: list[T], n: int):
 
 
 def dedupe(lst: list[dict[str, str]]) -> list[dict[str, str]]:
-    return lst
     seen = set()
     deduped_list = []
     for item in lst:
