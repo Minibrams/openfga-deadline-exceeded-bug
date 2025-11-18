@@ -26,9 +26,10 @@ async def main():
             object_type="sensor",
         )
 
-    async with asyncio.TaskGroup() as tg:
-        for user in users:
-            tg.create_task(make_queries(user))
+    for _ in range(100):
+        async with asyncio.TaskGroup() as tg:
+            for user in users:
+                tg.create_task(make_queries(user))
     
 if __name__ == "__main__":
     asyncio.run(main())
